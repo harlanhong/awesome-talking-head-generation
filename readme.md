@@ -45,7 +45,10 @@ Preserving Identity of Unseen Targets](https://arxiv.org/abs/1911.08139), `AAAI 
 3. <span id="a20003">[MakeItTalk]</span> [MakeItTalk: Speaker-Aware Talking-Head Animation](), `SIGGRAPH Asia 2020`. [[Code](https://github.com/yzhou359/MakeItTalk)], [[Project](https://people.umass.edu/~yangzhou/MakeItTalk/)].
 ### 2021
 1. <span id="a21001">[PC-AVS]</span> [Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation](https://arxiv.org/abs/2104.11116), `CVPR 2021`. [[Code](https://github.com/Hangz-nju-cuhk/Talking-Face_PC-AVS)], [[Project](https://hangz-nju-cuhk.github.io/projects/PC-AVS)].
-
+2. <span id="a21002">[IATS]</span>[Imitating Arbitrary Talking Style for Realistic Audio-Driven Talking Face Synthesis](https://dl.acm.org/doi/pdf/10.1145/3474085.3475280),`ACM Multimedia 2021`..
+3. <span id="a21003">[EVP]</span> [Audio-Driven Emotional Video Portraits](https://openaccess.thecvf.com/content/CVPR2021/papers/Ji_Audio-Driven_Emotional_Video_Portraits_CVPR_2021_paper.pdf), `CVPR 2021`. [[Code](https://github.com/jixinya/EVP)]
+4. <span id="a21004">[FAU]</span> [Talking Head Generation with Audio and Speech Related Facial Action Units](https://arxiv.org/pdf/2110.09951.pdf), `arxiv 2021`.
+5. <span id="a21005">[Speech2Talking-Face]</span> [Speech2Talking-Face: Inferring and Driving a Face with Synchronized Audio-Visual Representation](https://www.ijcai.org/proceedings/2021/0141.pdf), `IJCAI 2021`.
 ----
 ## Nerf-Head
 ### 2021
