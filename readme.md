@@ -31,7 +31,10 @@ Realistic Neural Talking Head models](https://www.google.com/url?sa=t&rct=j&q=&e
 Preserving Identity of Unseen Targets](https://arxiv.org/abs/1911.08139), `AAAI 2020`. [[Project](https://hyperconnect.github.io/MarioNETte/)].
 
 ### 2021
-1. <span id = "21001" >[face-vid2vid]</span> [One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing](https://nvlabs.github.io/face-vid2vid/main.pdf), `CVPR 2021 Oral`. [[Project](https://nvlabs.github.io/face-vid2vid/)].
+1. <span id = "21001">[face-vid2vid]</span> [One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing](https://nvlabs.github.io/face-vid2vid/main.pdf), `CVPR 2021 Oral`. [[Project](https://nvlabs.github.io/face-vid2vid/)].
+2. <span id="21002">[S2D]</span> [Sparse to Dense Motion Transfer for Face Image Animation](https://openaccess.thecvf.com/content/ICCV2021W/AIM/papers/Zhao_Sparse_to_Dense_Motion_Transfer_for_Face_Image_Animation_ICCVW_2021_paper.pdf), `ICCV 2021`.
+3. <span id="21003">[SAFA]</span> [SAFA: Structure Aware Face Animation](https://arxiv.org/pdf/2111.04928.pdf), `3DV 2021`. [[Code](https://github.com/Qiulin-W/SAFA)]
+4. <span id="21004">[SAA]</span> [Self-appearance-aided Differential Evolution for Motion Transfer](https://arxiv.org/abs/2110.04658), `arXiv 2021`.
 ----
 ## Audio-driven
 ### 2016
