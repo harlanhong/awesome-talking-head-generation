@@ -1,7 +1,8 @@
 # awesome-talking-head-generation  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 Papers for Talking Head Generation, released codes collections.
 
-Any addition or bug please open an issue, pull requests or e-mail me by `fhongac@cse.ust.hk` 
+This repo mainly focus on the image-driven talking head generation task, but any addition or bug about other domain talking head generation,please open an issue, pull requests or e-mail me by `fhongac@cse.ust.hk` 
+
 
 ## Datasets
 0. VoxCeleb1 [[`Download link`](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/vox1.html)].
@@ -35,6 +36,7 @@ Preserving Identity of Unseen Targets](https://arxiv.org/abs/1911.08139), `AAAI 
 2. <span id="21002">[S2D]</span> [Sparse to Dense Motion Transfer for Face Image Animation](https://openaccess.thecvf.com/content/ICCV2021W/AIM/papers/Zhao_Sparse_to_Dense_Motion_Transfer_for_Face_Image_Animation_ICCVW_2021_paper.pdf), `ICCV 2021`.
 3. <span id="21003">[SAFA]</span> [SAFA: Structure Aware Face Animation](https://arxiv.org/pdf/2111.04928.pdf), `3DV 2021`. [[Code](https://github.com/Qiulin-W/SAFA)]
 4. <span id="21004">[SAA]</span> [Self-appearance-aided Differential Evolution for Motion Transfer](https://arxiv.org/abs/2110.04658), `arXiv 2021`.
+5. <span id="21005">[PIRenderer]</span>[PIRenderer: Controllable Portrait Image Generation via Semantic Neural Rendering](https://arxiv.org/pdf/2109.08379.pdf), `ICCV 2021`. [[Code](https://github.com/RenYurui/PIRender)]
 ----
 ## Audio-driven
 ### 2016
@@ -69,3 +71,7 @@ Preserving Identity of Unseen Targets](https://arxiv.org/abs/1911.08139), `AAAI 
 ### 2020
 1. <span id="s20001">[What comprises a good talking-head video generation?: A Survey and Benchmark](https://arxiv.org/pdf/2005.03201v1.pdf).
 
+## Performance Comparison on Celebv1 
+|Model| Tag | Setting| FID $\downarrow$ |PSNR $\uparrow$| SSIM $\uparrow$| L1 $\downarrow$| 
+| ----- | -----| ----- | ----- | ------ | ------ | ----- |
+|[SAA](#21004)| arXiv 2021 | few-shot | 25.43| 26.20 | 0.86| 0.027 |
