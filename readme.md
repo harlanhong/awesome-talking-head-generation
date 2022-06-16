@@ -3,6 +3,8 @@ Papers for Talking Head Generation, released codes collections.
 
 This repo mainly focus on the image-driven talking head generation task, but any addition or bug about other domain talking head generation,please open an issue, pull requests or e-mail me by `fhongac@cse.ust.hk` 
 
+## Related Group
+0. [MMLab@NTU](https://www.mmlab-ntu.com)
 
 ## Datasets
 0. VoxCeleb1 [[`Download link`](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/vox1.html)].
@@ -37,6 +39,11 @@ Preserving Identity of Unseen Targets](https://arxiv.org/abs/1911.08139), `AAAI 
 3. <span id="21003">[SAFA]</span> [SAFA: Structure Aware Face Animation](https://arxiv.org/pdf/2111.04928.pdf), `3DV 2021`. [[Code](https://github.com/Qiulin-W/SAFA)]
 4. <span id="21004">[SAA]</span> [Self-appearance-aided Differential Evolution for Motion Transfer](https://arxiv.org/abs/2110.04658), `arXiv 2021`.
 5. <span id="21005">[PIRenderer]</span>[PIRenderer: Controllable Portrait Image Generation via Semantic Neural Rendering](https://arxiv.org/pdf/2109.08379.pdf), `ICCV 2021`. [[Code](https://github.com/RenYurui/PIRender)]
+
+### 2022
+1. <span id="22001">[DaGAN]</span>[Depth-Aware Generative Adversarial Network for Talking Head Video Generation](https://arxiv.org/abs/2203.06605), `CVPR 2022`. [[Code](https://github.com/harlanhong/CVPR2022-DaGAN)], [[Project](https://harlanhong.github.io/publications/dagan.html)]
+
+2. <span id="22002">[TPSM]</span>[Thin-Plate Spline Motion Model for Image Animation](https://arxiv.org/abs/2203.06605), `CVPR 2022`. [[Code](https://github.com/yoyo-nb/Thin-Plate-Spline-Motion-Model)]
 ----
 ## Audio-driven
 ### 2016
@@ -59,6 +66,8 @@ Preserving Identity of Unseen Targets](https://arxiv.org/abs/1911.08139), `AAAI 
 ### 2021
 1. <span id="n21001">[DFA-NeRF]</span> [DFA-NeRF: Personalized Talking Head Generation via Disentangled Face Attributes Neural Rendering](https://arxiv.org/pdf/2201.00791v1.pdf), `arxiv, 2021`.
 2. <span id="n21002">[NerFACE]</span> [NerFACE: Dynamic Neural Radiance Fields for Monocular 4D Facial Avatar Reconstruction](https://arxiv.org/pdf/2012.03065), `CVPR 2021 Oral`. [[Code](https://github.com/gafniguy/4D-Facial-Avatars)], [[Project](https://gafniguy.github.io/4D-Facial-Avatars/)]
+### 2022
+1. <span id="n22001">[SSP-NeRFF]</span> [Semantic-Aware Implicit Neural Audio-Driven Video Portrait Generation](https://arxiv.org/pdf/2201.07786.pdf), `arxiv, 2022`.
 ----
 ## Parameter-Based
 ### 2020
