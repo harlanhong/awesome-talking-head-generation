@@ -68,6 +68,7 @@ Preserving Identity of Unseen Targets](https://arxiv.org/abs/1911.08139), `AAAI 
 2. <span id="n21002">[NerFACE]</span> [NerFACE: Dynamic Neural Radiance Fields for Monocular 4D Facial Avatar Reconstruction](https://arxiv.org/pdf/2012.03065), `CVPR 2021 Oral`. [[Code](https://github.com/gafniguy/4D-Facial-Avatars)], [[Project](https://gafniguy.github.io/4D-Facial-Avatars/)]
 ### 2022
 1. <span id="n22001">[SSP-NeRFF]</span> [Semantic-Aware Implicit Neural Audio-Driven Video Portrait Generation](https://arxiv.org/pdf/2201.07786.pdf), `arxiv, 2022`.
+2. <span id="n22002">[HeadNeRF]</span> [HeadNeRF: A Real-time NeRF-based Parametric Head Model](https://arxiv.org/pdf/2201.07786.pdf), `CVPR 2022`. [[Code](https://github.com/CrisHY1995/headnerf)], [[Project](https://hy1995.top/HeadNeRF-Project/)]
 ----
 ## Parameter-Based
 ### 2020
@@ -80,7 +81,3 @@ Preserving Identity of Unseen Targets](https://arxiv.org/abs/1911.08139), `AAAI 
 ### 2020
 1. <span id="s20001">[What comprises a good talking-head video generation?: A Survey and Benchmark](https://arxiv.org/pdf/2005.03201v1.pdf).
 
-## Performance Comparison on Celebv1 
-|Model| Tag | Setting| FID $\downarrow$ |PSNR $\uparrow$| SSIM $\uparrow$| L1 $\downarrow$| 
-| ----- | -----| ----- | ----- | ------ | ------ | ----- |
-|[SAA](#21004)| arXiv 2021 | few-shot | 25.43| 26.20 | 0.86| 0.027 |
