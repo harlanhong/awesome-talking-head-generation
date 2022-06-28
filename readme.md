@@ -29,7 +29,7 @@ Realistic Neural Talking Head models](https://www.google.com/url?sa=t&rct=j&q=&e
 3. <span id = "19003">[fs-vid2vid]</span>[Few-shot Video-to-Video Synthesis](https://nvlabs.github.io/few-shot-vid2vid/main.pdf), `NeurIPS 2019`. [[Code](https://github.com/NVlabs/few-shot-vid2vid)], [[Project](https://nvlabs.github.io/few-shot-vid2vid/)].
 
 ### 2020
-1. <span id = "20001">[MeshG]</span> [Mesh Guided One-shot Face Reenactment Using Graph Convolutional Networks](http://papers.nips.cc/paper/8935-first-order-motion-model-for-image-animation.pdf), `ACM Multimedia 2020`. [[Code](https://arxiv.org/abs/2008.07783)].
+1. <span id = "20001">[MeshG]</span> [Mesh Guided One-shot Face Reenactment Using Graph Convolutional Networks](https://dl.acm.org/doi/pdf/10.1145/3394171.3413865), `ACM Multimedia 2020`. [[Code](https://arxiv.org/abs/2008.07783)].
 2. <span id = "20002">[MarioNETte]</span> [MarioNETte: Few-shot Face Reenactment 
 Preserving Identity of Unseen Targets](https://arxiv.org/abs/1911.08139), `AAAI 2020`. [[Project](https://hyperconnect.github.io/MarioNETte/)].
 
@@ -39,6 +39,10 @@ Preserving Identity of Unseen Targets](https://arxiv.org/abs/1911.08139), `AAAI 
 3. <span id="21003">[SAFA]</span> [SAFA: Structure Aware Face Animation](https://arxiv.org/pdf/2111.04928.pdf), `3DV 2021`. [[Code](https://github.com/Qiulin-W/SAFA)]
 4. <span id="21004">[SAA]</span> [Self-appearance-aided Differential Evolution for Motion Transfer](https://arxiv.org/abs/2110.04658), `arXiv 2021`.
 5. <span id="21005">[PIRenderer]</span>[PIRenderer: Controllable Portrait Image Generation via Semantic Neural Rendering](https://arxiv.org/pdf/2109.08379.pdf), `ICCV 2021`. [[Code](https://github.com/RenYurui/PIRender)]
+
+6. <span id="21006">[FaceGAN]</span>[FACEGAN: Facial Attribute Controllable rEenactment GAN](https://openaccess.thecvf.com/content/WACV2021/papers/Tripathy_FACEGAN_Facial_Attribute_Controllable_rEenactment_GAN_WACV_2021_paper.pdf), `WACV 2021`.
+
+7. <span id="21007">[F^3A-GAN]</span>[F3A-GAN: Facial Flow for Face Animation With Generative Adversarial Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9547053), `IEEE TIP 2021`.
 
 ### 2022
 1. <span id="22001">[DaGAN]</span>[Depth-Aware Generative Adversarial Network for Talking Head Video Generation](https://arxiv.org/abs/2203.06605), `CVPR 2022`. [[Code](https://github.com/harlanhong/CVPR2022-DaGAN)], [[Project](https://harlanhong.github.io/publications/dagan.html)]
@@ -61,6 +65,7 @@ Preserving Identity of Unseen Targets](https://arxiv.org/abs/1911.08139), `AAAI 
 3. <span id="a21003">[EVP]</span> [Audio-Driven Emotional Video Portraits](https://openaccess.thecvf.com/content/CVPR2021/papers/Ji_Audio-Driven_Emotional_Video_Portraits_CVPR_2021_paper.pdf), `CVPR 2021`. [[Code](https://github.com/jixinya/EVP)]
 4. <span id="a21004">[FAU]</span> [Talking Head Generation with Audio and Speech Related Facial Action Units](https://arxiv.org/pdf/2110.09951.pdf), `arxiv 2021`.
 5. <span id="a21005">[Speech2Talking-Face]</span> [Speech2Talking-Face: Inferring and Driving a Face with Synchronized Audio-Visual Representation](https://www.ijcai.org/proceedings/2021/0141.pdf), `IJCAI 2021`.
+6. <span id="a21006">[IATS]</span> [Imitating Arbitrary Talking Style for Realistic Audio-Driven Talking Face Synthesis](), `ACM MM 2021`.
 ----
 ## Nerf-Head
 ### 2021
@@ -69,8 +74,10 @@ Preserving Identity of Unseen Targets](https://arxiv.org/abs/1911.08139), `AAAI 
 ### 2022
 1. <span id="n22001">[SSP-NeRFF]</span> [Semantic-Aware Implicit Neural Audio-Driven Video Portrait Generation](https://arxiv.org/pdf/2201.07786.pdf), `arxiv, 2022`.
 2. <span id="n22002">[HeadNeRF]</span> [HeadNeRF: A Real-time NeRF-based Parametric Head Model](https://openaccess.thecvf.com/content/CVPR2022/papers/Grassal_Neural_Head_Avatars_From_Monocular_RGB_Videos_CVPR_2022_paper.pdf), `CVPR 2022`. [[Code](https://github.com/CrisHY1995/headnerf)], [[Project](https://hy1995.top/HeadNeRF-Project/)]
-3. <span id="n22002">[IMavatar]</span> [I M Avatar: Implicit Morphable Head Avatars from Videos
+3. <span id="n22003">[IMavatar]</span> [I M Avatar: Implicit Morphable Head Avatars from Videos
 ](https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_I_M_Avatar_Implicit_Morphable_Head_Avatars_From_Videos_CVPR_2022_paper.pdf), `CVPR 2022`. [[Code](https://ait.ethz.ch/projects/2022/IMavatar/)]
+
+
 ----
 ## Parameter-Based
 ### 2020
