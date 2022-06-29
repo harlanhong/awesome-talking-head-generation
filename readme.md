@@ -29,7 +29,7 @@ Realistic Neural Talking Head models](https://www.google.com/url?sa=t&rct=j&q=&e
 3. <span id = "19003">[fs-vid2vid]</span>[Few-shot Video-to-Video Synthesis](https://nvlabs.github.io/few-shot-vid2vid/main.pdf), `NeurIPS 2019`. [[Code](https://github.com/NVlabs/few-shot-vid2vid)], [[Project](https://nvlabs.github.io/few-shot-vid2vid/)].
 
 ### 2020
-1. <span id = "20001">[MeshG]</span> [Mesh Guided One-shot Face Reenactment Using Graph Convolutional Networks](https://dl.acm.org/doi/pdf/10.1145/3394171.3413865), `ACM Multimedia 2020`. [[Code](https://arxiv.org/abs/2008.07783)].
+1. <span id = "20001">[MeshG]</span> [Mesh Guided One-shot Face Reenactment Using Graph Convolutional Networks](https://dl.acm.org/doi/pdf/10.1145/3394171.3413865g), `ACM Multimedia 2020`. [[Code](https://arxiv.org/abs/2008.07783)].
 2. <span id = "20002">[MarioNETte]</span> [MarioNETte: Few-shot Face Reenactment 
 Preserving Identity of Unseen Targets](https://arxiv.org/abs/1911.08139), `AAAI 2020`. [[Project](https://hyperconnect.github.io/MarioNETte/)].
 
@@ -65,7 +65,9 @@ Preserving Identity of Unseen Targets](https://arxiv.org/abs/1911.08139), `AAAI 
 3. <span id="a21003">[EVP]</span> [Audio-Driven Emotional Video Portraits](https://openaccess.thecvf.com/content/CVPR2021/papers/Ji_Audio-Driven_Emotional_Video_Portraits_CVPR_2021_paper.pdf), `CVPR 2021`. [[Code](https://github.com/jixinya/EVP)]
 4. <span id="a21004">[FAU]</span> [Talking Head Generation with Audio and Speech Related Facial Action Units](https://arxiv.org/pdf/2110.09951.pdf), `arxiv 2021`.
 5. <span id="a21005">[Speech2Talking-Face]</span> [Speech2Talking-Face: Inferring and Driving a Face with Synchronized Audio-Visual Representation](https://www.ijcai.org/proceedings/2021/0141.pdf), `IJCAI 2021`.
-6. <span id="a21006">[IATS]</span> [Imitating Arbitrary Talking Style for Realistic Audio-Driven Talking Face Synthesis](), `ACM MM 2021`.
+6. <span id="a21006">[IATS]</span> [Imitating Arbitrary Talking Style for Realistic Audio-Driven Talking Face Synthesis](https://arxiv.org/abs/2111.00203), `ACM MM 2021`.
+7. <span id="a21007">[LSP]</span> [Live Speech Portraits: Real-Time Photorealistic Talking-Head Animation](https://arxiv.org/abs/2109.10595), `ACM Trans. Graph 2021`.
+
 ----
 ## Nerf-Head
 ### 2021
