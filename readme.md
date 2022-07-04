@@ -78,7 +78,8 @@ Preserving Identity of Unseen Targets](https://arxiv.org/abs/1911.08139), `AAAI 
 2. <span id="n22002">[HeadNeRF]</span> [HeadNeRF: A Real-time NeRF-based Parametric Head Model](https://openaccess.thecvf.com/content/CVPR2022/papers/Grassal_Neural_Head_Avatars_From_Monocular_RGB_Videos_CVPR_2022_paper.pdf), `CVPR 2022`. [[Code](https://github.com/CrisHY1995/headnerf)], [[Project](https://hy1995.top/HeadNeRF-Project/)]
 3. <span id="n22003">[IMavatar]</span> [I M Avatar: Implicit Morphable Head Avatars from Videos
 ](https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_I_M_Avatar_Implicit_Morphable_Head_Avatars_From_Videos_CVPR_2022_paper.pdf), `CVPR 2022`. [[Code](https://ait.ethz.ch/projects/2022/IMavatar/)]
-
+4. <span id="n22004">[ROME]</span> [Realistic One-shot Mesh-based Head Avatars
+](https://arxiv.org/pdf/2206.08343.pdf), `ECCV 2022`.
 
 ----
 ## Parameter-Based
