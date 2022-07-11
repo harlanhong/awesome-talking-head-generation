@@ -66,7 +66,9 @@ Preserving Identity of Unseen Targets](https://arxiv.org/abs/1911.08139), `AAAI 
 4. <span id="a21004">[FAU]</span> [Talking Head Generation with Audio and Speech Related Facial Action Units](https://arxiv.org/pdf/2110.09951.pdf), `arxiv 2021`.
 5. <span id="a21005">[Speech2Talking-Face]</span> [Speech2Talking-Face: Inferring and Driving a Face with Synchronized Audio-Visual Representation](https://www.ijcai.org/proceedings/2021/0141.pdf), `IJCAI 2021`.
 6. <span id="a21006">[IATS]</span> [Imitating Arbitrary Talking Style for Realistic Audio-Driven Talking Face Synthesis](https://arxiv.org/abs/2111.00203), `ACM MM 2021`.
-7. <span id="a21007">[LSP]</span> [Live Speech Portraits: Real-Time Photorealistic Talking-Head Animation](https://arxiv.org/abs/2109.10595), `ACM Trans. Graph 2021`.
+7. <span id="a21007">[LSP]</span> [Live Speech Portraits: Real-Time Photorealistic Talking-Head Animation](https://arxiv.org/abs/2109.10595), `ACM TOG 2021`.
+8. <span id="a21008">[Audio2head]</span> [Audio2head: Audio-driven one-shot talking-head generation with natural head motion](https://arxiv.org/pdf/2107.09293), `ArXiv 2021`.
+
 
 ### 2022
 1. <span id="a22001">[GC-AVT]</span> [Expressive Talking Head Generation with Granular Audio-Visual Control ](https://openaccess.thecvf.com/content/CVPR2022/papers/Liang_Expressive_Talking_Head_Generation_With_Granular_Audio-Visual_Control_CVPR_2022_paper.pdf), `CVPR 2022`.
