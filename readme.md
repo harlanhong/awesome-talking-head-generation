@@ -2,7 +2,7 @@
 
 Papers for Talking Head Generation, released codes collections.
 
-This repo mainly focus on the image-driven talking head generation task, but any addition or bug about other domain talking head generation,please open an issue, pull requests or e-mail me by `fhongac@cse.ust.hk`
+This repo mainly focus on the image-driven talking head generation task, but any addition or bug about other domain talking head generation,please open an issue, pull requests or e-mail me by `fhongac@cse.ust.hk`. If you are researching in talking head generation task, you can join us in discord: https://discord.gg/3K74mkQ5 for better communication and cooperations.
 
 ## Related Group
 
