@@ -58,7 +58,7 @@ This repo mainly focus on the image-driven talking head generation task, but any
 ### 2022
 
 1. <span id="22001">[DaGAN][Depth-Aware Generative Adversarial Network for Talking Head Video Generation](https://arxiv.org/abs/2203.06605), `CVPR 2022`. [[Code](https://github.com/harlanhong/CVPR2022-DaGAN)], [[Project](https://harlanhong.github.io/publications/dagan.html)]
-2. <span id="22002">[TPSM][Thin-Plate Spline Motion Model for Image Animation](https://arxiv.org/abs/2203.06605), `CVPR 2022`. [[Code](https://github.com/yoyo-nb/Thin-Plate-Spline-Motion-Model)]
+2. <span id="22002">[TPSM][Thin-Plate Spline Motion Model for Image Animation](https://arxiv.org/abs/2203.14367), `CVPR 2022`. [[Code](https://github.com/yoyo-nb/Thin-Plate-Spline-Motion-Model)]
 3. <span id="22003">[StyleHEAT][StyleHEAT: One-Shot High-Resolution Editable Talking Face Generation via Pretrained StyleGAN](https://arxiv.org/pdf/2203.04036.pdf), `ECCV 2022`. [[Code](https://github.com/FeiiYin/StyleHEAT/)], [[Project](https://feiiyin.github.io/StyleHEAT/)]
 4. <span id="22004">[MegaPortraits][MegaPortraits: One-shot Megapixel Neural Head Avatars](https://arxiv.org/abs/2207.07621), `ACM MM 2022`. [[Project](https://samsunglabs.github.io/MegaPortraits/)]
 
