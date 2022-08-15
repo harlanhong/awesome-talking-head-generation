@@ -17,6 +17,7 @@ This repo mainly focus on the image-driven talking head generation task, but any
 4. TalkingHead-1KH [[`Download link`](https://github.com/deepimagination/TalkingHead-1KH)].
 5. LRW (Lip Reading in the Wild) [[`Download link`](https://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrw1.html)].
 6. MEAD [[`Download link`](https://github.com/uniBruce/Mead)].
+7. CelebV-HQ [[`Download link`](https://github.com/CelebV-HQ/CelebV-HQ)].
 
 ---
 
