@@ -56,6 +56,9 @@ This repo mainly focus on the image-driven talking head generation task, but any
 6. <span id="21006">[FaceGAN][FACEGAN: Facial Attribute Controllable rEenactment GAN](https://openaccess.thecvf.com/content/WACV2021/papers/Tripathy_FACEGAN_Facial_Attribute_Controllable_rEenactment_GAN_WACV_2021_paper.pdf), `WACV 2021`.
 7. <span id="21007">[F^3A-GAN][F3A-GAN: Facial Flow for Face Animation With Generative Adversarial Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9547053), `IEEE TIP 2021`.
 
+8. <span id="21007">[FACIAL][FACIAL: Synthesizing Dynamic Talking Face with Implicit Attribute Learning](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_FACIAL_Synthesizing_Dynamic_Talking_Face_With_Implicit_Attribute_Learning_ICCV_2021_paper.pdf), `ICCV 2021`.
+
+
 ### 2022
 
 1. <span id="22001">[DaGAN][Depth-Aware Generative Adversarial Network for Talking Head Video Generation](https://arxiv.org/abs/2203.06605), `CVPR 2022`. [[Code](https://github.com/harlanhong/CVPR2022-DaGAN)], [[Project](https://harlanhong.github.io/publications/dagan.html)]
