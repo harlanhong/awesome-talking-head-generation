@@ -56,7 +56,10 @@ This repo mainly focus on the image-driven talking head generation task, but any
 6. <span id="21006">[FaceGAN][FACEGAN: Facial Attribute Controllable rEenactment GAN](https://openaccess.thecvf.com/content/WACV2021/papers/Tripathy_FACEGAN_Facial_Attribute_Controllable_rEenactment_GAN_WACV_2021_paper.pdf), `WACV 2021`.
 7. <span id="21007">[F^3A-GAN][F3A-GAN: Facial Flow for Face Animation With Generative Adversarial Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9547053), `IEEE TIP 2021`.
 
-8. <span id="21007">[FACIAL][FACIAL: Synthesizing Dynamic Talking Face with Implicit Attribute Learning](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_FACIAL_Synthesizing_Dynamic_Talking_Face_With_Implicit_Attribute_Learning_ICCV_2021_paper.pdf), `ICCV 2021`.
+8. <span id="21008">[FACIAL][FACIAL: Synthesizing Dynamic Talking Face with Implicit Attribute Learning](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_FACIAL_Synthesizing_Dynamic_Talking_Face_With_Implicit_Attribute_Learning_ICCV_2021_paper.pdf), `ICCV 2021`.
+
+9. <span id="21009">[MRAA][ Motion Representations for Articulated Animation](https://openaccess.thecvf.com/content/CVPR2021/papers/Siarohin_Motion_Representations_for_Articulated_Animation_CVPR_2021_paper.pdf), `CVPR 2021`. [[Code](https://github.com/snap-research/articulated-animation)]
+
 
 
 ### 2022
