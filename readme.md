@@ -69,6 +69,8 @@ This repo mainly focus on the image-driven talking head generation task, but any
 3. <span id="22003">[StyleHEAT][StyleHEAT: One-Shot High-Resolution Editable Talking Face Generation via Pretrained StyleGAN](https://arxiv.org/pdf/2203.04036.pdf), `ECCV 2022`. [[Code](https://github.com/FeiiYin/StyleHEAT/)], [[Project](https://feiiyin.github.io/StyleHEAT/)]
 4. <span id="22004">[MegaPortraits][MegaPortraits: One-shot Megapixel Neural Head Avatars](https://arxiv.org/abs/2207.07621), `ACM MM 2022`. [[Project](https://samsunglabs.github.io/MegaPortraits/)]
 
+5. <span id="22005">[DAM][Structure-Aware Motion Transfer with Deformable Anchor Model](https://openaccess.thecvf.com/content/CVPR2022/papers/Tao_Structure-Aware_Motion_Transfer_With_Deformable_Anchor_Model_CVPR_2022_paper.pdf), `CVPR 2022`. [[Code](https://github.com/JialeTao/DAM)]
+
 ---
 
 ## Audio-driven
