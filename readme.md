@@ -71,7 +71,7 @@ This repo mainly focus on the image-driven talking head generation task, but any
 
 5. <span id="22005">[DAM][Structure-Aware Motion Transfer with Deformable Anchor Model](https://openaccess.thecvf.com/content/CVPR2022/papers/Tao_Structure-Aware_Motion_Transfer_With_Deformable_Anchor_Model_CVPR_2022_paper.pdf), `CVPR 2022`. [[Code](https://github.com/JialeTao/DAM)]
 
-6. <span id="22006">[StyleMask][StyleMask: Disentangling the Style Space of StyleGAN2 for Neural Face Reenactment](https://arxiv.org/pdf/2209.13375.pdf), `IEEE Conference on Automatic Face and Gesture Recognition, 2023`. [[Code](https://github.com/StelaBou/StyleMask)]
+6. <span id="22006">[StyleMask][StyleMask: Disentangling the Style Space of StyleGAN2 for Neural Face Reenactment](https://arxiv.org/pdf/2209.13375.pdf), `FG, 2023`. [[Code](https://github.com/StelaBou/StyleMask)]
 
 ---
 
