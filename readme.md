@@ -73,6 +73,10 @@ This repo mainly focus on the image-driven talking head generation task, but any
 
 6. <span id="22006">[StyleMask][StyleMask: Disentangling the Style Space of StyleGAN2 for Neural Face Reenactment](https://arxiv.org/pdf/2209.13375.pdf), `FG, 2023`. [[Code](https://github.com/StelaBou/StyleMask)]
 
+7. <span id="22007">[CoRF][Controllable Radiance Fields for Dynamic Face Synthesis](https://arxiv.org/pdf/2210.06465.pdf), `Arxiv`. 
+
+8. <span id="22009">[AniFaceGAN][Animatable 3D-Aware Face Image Generation 
+for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS`. [[Project](https://yuewuhkust.github.io/AniFaceGAN/)] 
 ---
 
 ## Audio-driven
