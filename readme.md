@@ -75,8 +75,10 @@ This repo mainly focus on the image-driven talking head generation task, but any
 
 7. <span id="22007">[CoRF][Controllable Radiance Fields for Dynamic Face Synthesis](https://arxiv.org/pdf/2210.06465.pdf), `Arxiv`. 
 
-8. <span id="22009">[AniFaceGAN][Animatable 3D-Aware Face Image Generation 
+8. <span id="22008">[AniFaceGAN][Animatable 3D-Aware Face Image Generation 
 for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS`. [[Project](https://yuewuhkust.github.io/AniFaceGAN/)] 
+
+9. <span id="22009">[IW][Implicit Warping for Animation with Image Sets](https://arxiv.org/pdf/2210.01794.pdf), `NeurIPS`. [[Project](https://deepimagination.cc/implicit_warping/)] 
 ---
 
 ## Audio-driven
@@ -120,6 +122,7 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS`. [[Project](
 6. <span id="a21006">[IATS] [Imitating Arbitrary Talking Style for Realistic Audio-Driven Talking Face Synthesis](https://arxiv.org/abs/2111.00203), `ACM MM 2021`.
 7. <span id="a21007">[LSP] [Live Speech Portraits: Real-Time Photorealistic Talking-Head Animation](https://arxiv.org/abs/2109.10595), `ACM TOG 2021`.
 8. <span id="a21008">[Audio2head] [Audio2head: Audio-driven one-shot talking-head generation with natural head motion](https://arxiv.org/pdf/2107.09293), `ArXiv 2021`.
+
 
 ### 2022
 
