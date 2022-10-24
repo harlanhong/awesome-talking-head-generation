@@ -2,7 +2,7 @@
 
 Papers for Talking Head Generation, released codes collections.
 
-This repo mainly focus on the image-driven talking head generation task, but any addition or bug about other domain talking head generation,please open an issue, pull requests or e-mail me by `fhongac@cse.ust.hk`. If you are researching in talking head generation task, you can join us in discord: https://discord.gg/3K74mkQ5 for better communication and cooperations.
+This repo mainly focus on the image-driven talking head generation task, but any addition or bug about other domain talking head generation,please open an issue, pull requests or e-mail me by `fhongac@cse.ust.hk`. If you are researching in talking head generation task, you can add my discord account: Fa-Ting Hong#6563 for better communication and cooperations.
 
 ## Related Group
 
@@ -129,7 +129,6 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS`. [[Project](
 1. <span id="a22001">[GC-AVT] [Expressive Talking Head Generation with Granular Audio-Visual Control ](https://openaccess.thecvf.com/content/CVPR2022/papers/Liang_Expressive_Talking_Head_Generation_With_Granular_Audio-Visual_Control_CVPR_2022_paper.pdf), `CVPR 2022`.
 2. <span id="a22002">[Talking Face Generation with Multilingual TTS](https://openaccess.thecvf.com/content/CVPR2022/papers/Song_Talking_Face_Generation_With_Multilingual_TTS_CVPR_2022_paper.pdf), `CVPR 2022`. [[Demo Track](https://huggingface.co/spaces/CVPR/ml-talking-face)].
 3. <span id="a22003">[EAMM] [EAMM: One-Shot Emotional Talking Face via Audio-Based Emotion-Aware Motion Model](https://arxiv.org/pdf/2205.15278.pdf), `SIGGRAPH 2022`.
-
 
 ---
 
