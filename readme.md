@@ -79,6 +79,8 @@ This repo mainly focus on the image-driven talking head generation task, but any
 for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS`. [[Project](https://yuewuhkust.github.io/AniFaceGAN/)] 
 
 9. <span id="22009">[IW][Implicit Warping for Animation with Image Sets](https://arxiv.org/pdf/2210.01794.pdf), `NeurIPS`. [[Project](https://deepimagination.cc/implicit_warping/)] 
+
+10. <span id="22010">[3DFaceShop][3DFaceShop: Explicitly Controllable 3D-Aware Portrait Generation](https://arxiv.org/pdf/2209.05434.pdf), `Arxiv`. [[Project](https://junshutang.github.io/control/index.html)] 
 ---
 
 ## Audio-driven
