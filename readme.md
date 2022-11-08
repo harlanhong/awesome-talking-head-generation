@@ -132,7 +132,7 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS`. [[Project](
 
 ---
 
-## Nerf-Head
+## Nerf & 3D
 
 ### 2021
 
@@ -146,6 +146,9 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS`. [[Project](
 3. <span id="n22003">[IMavatar] [I M Avatar: Implicit Morphable Head Avatars from Videos](https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_I_M_Avatar_Implicit_Morphable_Head_Avatars_From_Videos_CVPR_2022_paper.pdf), `CVPR 2022`. [[Code](https://ait.ethz.ch/projects/2022/IMavatar/)]
 4. <span id="n22004">[ROME] [Realistic One-shot Mesh-based Head Avatars](https://arxiv.org/pdf/2206.08343.pdf), `ECCV 2022`.
 
+5. <span id="n22005">[FNeVR] [FNeVR: Neural Volume Rendering for Face Animation](https://arxiv.org/abs/2209.10340), `Arxiv 2022`. [[Code](https://github.com/zengbohan0217/FNeVR)]
+
+6. <span id="n22006">[3DFaceShop] [3DFaceShop: Explicitly Controllable 3D-Aware Portrait Generation](https://arxiv.org/pdf/2209.05434), `Arxiv 2022`. [[Code](https://github.com/junshutang/3DFaceShop)],[[Project](https://junshutang.github.io/control/index.html)]
 ---
 
 ## Parameter-Based
