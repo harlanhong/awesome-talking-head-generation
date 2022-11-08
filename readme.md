@@ -60,7 +60,7 @@ This repo mainly focus on the image-driven talking head generation task, but any
 
 9. <span id="21009">[MRAA][ Motion Representations for Articulated Animation](https://openaccess.thecvf.com/content/CVPR2021/papers/Siarohin_Motion_Representations_for_Articulated_Animation_CVPR_2021_paper.pdf), `CVPR 2021`. [[Code](https://github.com/snap-research/articulated-animation)]
 
-
+10. <span id="21010">[HeadGAN][HeadGAN: One-shot Neural Head Synthesis and Editing](https://arxiv.org/pdf/2012.08261.pdf), `ICCV 2021`. [[Project](https://michaildoukas.github.io/HeadGAN/)]
 
 ### 2022
 
