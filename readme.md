@@ -43,9 +43,9 @@ This repo mainly focus on the image-driven talking head generation task, but any
 ### 2020
 
 1. <span id = "20001">[MeshG] [Mesh Guided One-shot Face Reenactment Using Graph Convolutional Networks](https://dl.acm.org/doi/pdf/10.1145/3394171.3413865g), `ACM Multimedia 2020`. [[Code](https://arxiv.org/abs/2008.07783)].
-2. <span id = "20002">[MarioNETte] [MarioNETte: Few-shot Face Reenactment
-   Preserving Identity of Unseen Targets](https://arxiv.org/abs/1911.08139), `AAAI 2020`. [[Project](https://hyperconnect.github.io/MarioNETte/)].
+2. <span id = "20002">[MarioNETte] [MarioNETte: Few-shot Face Reenactment Preserving Identity of Unseen Targets](https://arxiv.org/abs/1911.08139), `AAAI 2020`. [[Project](https://hyperconnect.github.io/MarioNETte/)].
 
+3. <span id = "20003">[CrossID-GAN] [Learning Identity-Invariant Motion Representations for Cross-ID Face Reenactment](https://openaccess.thecvf.com/content_CVPR_2020/papers/Huang_Learning_Identity-Invariant_Motion_Representations_for_Cross-ID_Face_Reenactment_CVPR_2020_paper.pdf), `CVPR 2020`.
 ### 2021
 
 1. <span id = "21001">[face-vid2vid] [One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing](https://nvlabs.github.io/face-vid2vid/main.pdf), `CVPR 2021 Oral`. [[Project](https://nvlabs.github.io/face-vid2vid/)].
