@@ -73,12 +73,14 @@ This repo mainly focus on the image-driven talking head generation task, but any
 
 6. <span id="22006">[StyleMask][StyleMask: Disentangling the Style Space of StyleGAN2 for Neural Face Reenactment](https://arxiv.org/pdf/2209.13375.pdf), `FG, 2023`. [[Code](https://github.com/StelaBou/StyleMask)]
 
-7. <span id="22007">[CoRF][Controllable Radiance Fields for Dynamic Face Synthesis](https://arxiv.org/pdf/2210.06465.pdf), `Arxiv`. 
+7. <span id="22007">[CoRF][Controllable Radiance Fields for Dynamic Face Synthesis](https://arxiv.org/pdf/2210.06465.pdf), `Arxiv 2022`. 
 
 8. <span id="22008">[AniFaceGAN][Animatable 3D-Aware Face Image Generation 
-for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS`. [[Project](https://yuewuhkust.github.io/AniFaceGAN/)] 
+for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS 2022`. [[Project](https://yuewuhkust.github.io/AniFaceGAN/)] 
 
-9. <span id="22009">[IW][Implicit Warping for Animation with Image Sets](https://arxiv.org/pdf/2210.01794.pdf), `NeurIPS`. [[Project](https://deepimagination.cc/implicit_warping/)] 
+9. <span id="22009">[IW][Implicit Warping for Animation with Image Sets](https://arxiv.org/pdf/2210.01794.pdf), `NeurIPS 2022`. [[Project](https://deepimagination.cc/implicit_warping/)] 
+
+10. <span id="22010">[HifiHead][HifiHead: One-Shot High Fidelity Neural Head Synthesis with 3D Control](https://www.ijcai.org/proceedings/2022/0244.pdf), `IJCAI 2022`.
 ---
 
 ## Audio-driven
@@ -149,6 +151,8 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS`. [[Project](
 5. <span id="n22005">[FNeVR] [FNeVR: Neural Volume Rendering for Face Animation](https://arxiv.org/abs/2209.10340), `Arxiv 2022`. [[Code](https://github.com/zengbohan0217/FNeVR)]
 
 6. <span id="n22006">[3DFaceShop] [3DFaceShop: Explicitly Controllable 3D-Aware Portrait Generation](https://arxiv.org/pdf/2209.05434), `Arxiv 2022`. [[Code](https://github.com/junshutang/3DFaceShop)],[[Project](https://junshutang.github.io/control/index.html)]
+
+7. <span id="n22007">[Next3D] [Generative Neural Texture Rasterization for 3D-Aware Head Avatars](https://arxiv.org/pdf/2211.11208.pdf), `Arxiv 2022`.[[Project](https://mrtornado24.github.io/Next3D/)]
 ---
 
 ## Parameter-Based
