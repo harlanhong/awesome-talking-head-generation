@@ -81,6 +81,8 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS 2022`. [[Proj
 9. <span id="22009">[IW][Implicit Warping for Animation with Image Sets](https://arxiv.org/pdf/2210.01794.pdf), `NeurIPS 2022`. [[Project](https://deepimagination.cc/implicit_warping/)] 
 
 10. <span id="22010">[HifiHead][HifiHead: One-Shot High Fidelity Neural Head Synthesis with 3D Control](https://www.ijcai.org/proceedings/2022/0244.pdf), `IJCAI 2022`.
+
+10. <span id="22011">[Face Animation with Multiple Source Images](https://arxiv.org/pdf/2212.00256.pdf?), `Arxiv 2022`.
 ---
 
 ## Audio-driven
