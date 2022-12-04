@@ -155,6 +155,9 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS 2022`. [[Proj
 6. <span id="n22006">[3DFaceShop] [3DFaceShop: Explicitly Controllable 3D-Aware Portrait Generation](https://arxiv.org/pdf/2209.05434), `Arxiv 2022`. [[Code](https://github.com/junshutang/3DFaceShop)],[[Project](https://junshutang.github.io/control/index.html)]
 
 7. <span id="n22007">[Next3D] [Generative Neural Texture Rasterization for 3D-Aware Head Avatars](https://arxiv.org/pdf/2211.11208.pdf), `Arxiv 2022`.[[Project](https://mrtornado24.github.io/Next3D/)]
+
+8. <span id="n22008">[NeRFInvertor] [NeRFInvertor: High Fidelity NeRF-GAN Inversion for Single-shot Real Image Animation](https://arxiv.org/pdf/2211.17235.pdf?), `Arxiv 2022`.
+
 ---
 
 ## Parameter-Based
