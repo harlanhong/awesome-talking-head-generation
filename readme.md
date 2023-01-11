@@ -141,6 +141,8 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS 2022`. [[Proj
 
 :fire:Diffusion:fire: 5. <span id="a22005">[Diffused Heads] [Diffused Heads: Diffusion Models Beat GANs on Talking-Face Generation](https://mstypulkowski.github.io/diffusedheads/diffused_heads.pdf), `Arxiv 2022`. [[Project](https://mstypulkowski.github.io/diffusedheads/)] 
 
+:fire:Diffusion:fire: 6. <span id="a22006">[DiffTalk] [DiffTalk: Crafting Diffusion Models for Generalized Talking Head Synthesis](https://arxiv.org/abs/2301.03786), `Arxiv 2022`. [[Project](https://sstzal.github.io/DiffTalk/)] 
+
 ---
 
 ## Nerf & 3D
