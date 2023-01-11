@@ -84,7 +84,7 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS 2022`. [[Proj
 
 10. <span id="22011">[Face Animation with Multiple Source Images](https://arxiv.org/pdf/2212.00256.pdf?), `Arxiv 2022`.
 
-10. <span id="22011">[MetaPortrait][MetaPortrait: Identity-Preserving Talking Head Generation with Fast Personalized Adaptation](https://download.arxiv.org/pdf/2212.08062v2), `Arxiv 2022`.
+10. <span id="22012">[MetaPortrait][MetaPortrait: Identity-Preserving Talking Head Generation with Fast Personalized Adaptation](https://download.arxiv.org/pdf/2212.08062v2), `Arxiv 2022`.
 
 
 ---
@@ -138,6 +138,9 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS 2022`. [[Proj
 2. <span id="a22002">[Talking Face Generation with Multilingual TTS](https://openaccess.thecvf.com/content/CVPR2022/papers/Song_Talking_Face_Generation_With_Multilingual_TTS_CVPR_2022_paper.pdf), `CVPR 2022`. [[Demo Track](https://huggingface.co/spaces/CVPR/ml-talking-face)].
 3. <span id="a22003">[EAMM] [EAMM: One-Shot Emotional Talking Face via Audio-Based Emotion-Aware Motion Model](https://arxiv.org/pdf/2205.15278.pdf), `SIGGRAPH 2022`.
 4. <span id="a22004">[SPACEx] [SPACEx 🚀: Speech-driven Portrait Animation with Controllable Expression](https://arxiv.org/pdf/2211.09809.pdf), `Arxiv 2022`. [[Project](https://deepimagination.cc/SPACEx/)] 
+
+:fire:Diffusion:fire: 5. <span id="a22005">[Diffused Heads] [Diffused Heads: Diffusion Models Beat GANs on Talking-Face Generation](https://mstypulkowski.github.io/diffusedheads/diffused_heads.pdf), `Arxiv 2022`. [[Project](https://mstypulkowski.github.io/diffusedheads/)] 
+
 ---
 
 ## Nerf & 3D
