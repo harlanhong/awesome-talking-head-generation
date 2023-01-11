@@ -139,9 +139,10 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS 2022`. [[Proj
 3. <span id="a22003">[EAMM] [EAMM: One-Shot Emotional Talking Face via Audio-Based Emotion-Aware Motion Model](https://arxiv.org/pdf/2205.15278.pdf), `SIGGRAPH 2022`.
 4. <span id="a22004">[SPACEx] [SPACEx 🚀: Speech-driven Portrait Animation with Controllable Expression](https://arxiv.org/pdf/2211.09809.pdf), `Arxiv 2022`. [[Project](https://deepimagination.cc/SPACEx/)] 
 
-:fire:Diffusion:fire: 5. <span id="a22005">[Diffused Heads] [Diffused Heads: Diffusion Models Beat GANs on Talking-Face Generation](https://mstypulkowski.github.io/diffusedheads/diffused_heads.pdf), `Arxiv 2022`. [[Project](https://mstypulkowski.github.io/diffusedheads/)] 
+### 2023
+:fire:Diffusion:fire: 1. <span id="a23001">[Diffused Heads] [Diffused Heads: Diffusion Models Beat GANs on Talking-Face Generation](https://mstypulkowski.github.io/diffusedheads/diffused_heads.pdf), `Arxiv 2022`. [[Project](https://mstypulkowski.github.io/diffusedheads/)] 
 
-:fire:Diffusion:fire: 6. <span id="a22006">[DiffTalk] [DiffTalk: Crafting Diffusion Models for Generalized Talking Head Synthesis](https://arxiv.org/abs/2301.03786), `Arxiv 2022`. [[Project](https://sstzal.github.io/DiffTalk/)] 
+:fire:Diffusion:fire: 2. <span id="a23002">[DiffTalk] [DiffTalk: Crafting Diffusion Models for Generalized Talking Head Synthesis](https://arxiv.org/abs/2301.03786), `Arxiv 2022`. [[Project](https://sstzal.github.io/DiffTalk/)] 
 
 ---
 
