@@ -85,6 +85,14 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS 2022`. [[Proj
 10. <span id="22011">[Face Animation with Multiple Source Images](https://arxiv.org/pdf/2212.00256.pdf?), `Arxiv 2022`.
 
 10. <span id="22012">[MetaPortrait][MetaPortrait: Identity-Preserving Talking Head Generation with Fast Personalized Adaptation](https://download.arxiv.org/pdf/2212.08062v2), `Arxiv 2022`.
+   
+11. <span id="22011">[Compressing Video Calls using Synthetic Talking Heads](https://arxiv.org/pdf/2210.03692.pdf), `BMVC 2022`. [[Project](https://cvit.iiit.ac.in/research/projects/cvit-projects/talking-video-compression)] 
+
+
+
+### 2023
+
+1. <span id="23001">[AVFR-GAN][Audio-Visual Face Reenactment](https://arxiv.org/pdf/2210.02755.pdf), `WACV 2023`. [[Code](https://github.com/mdv3101/AVFR-Gan/)], [[Project](http://cvit.iiit.ac.in/research/projects/cvit-projects/avfr)]
 
 
 ---
