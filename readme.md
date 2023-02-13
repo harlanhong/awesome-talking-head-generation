@@ -94,6 +94,7 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS 2022`. [[Proj
 
 1. <span id="23001">[AVFR-GAN][Audio-Visual Face Reenactment](https://arxiv.org/pdf/2210.02755.pdf), `WACV 2023`. [[Code](https://github.com/mdv3101/AVFR-Gan/)], [[Project](http://cvit.iiit.ac.in/research/projects/cvit-projects/avfr)]
 
+2. <span id="23002">[TS-Net][Cross-identity Video Motion Retargeting with Joint Transformation and Synthesis](https://arxiv.org/pdf/2210.01559.pdf), `WACV 2023`. [[Code](https://github.com/nihaomiao/WACV23_TSNet)]
 
 ---
 
