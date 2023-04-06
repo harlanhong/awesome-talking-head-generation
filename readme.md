@@ -153,6 +153,7 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS 2022`. [[Proj
 
 :fire:Diffusion:fire: 2. <span id="a23002">[DiffTalk] [DiffTalk: Crafting Diffusion Models for Generalized Talking Head Synthesis](https://arxiv.org/abs/2301.03786), `Arxiv 2023`. [[Project](https://sstzal.github.io/DiffTalk/)] 
 
+3. <span id="a23003">[READ] [READ Avatars: Realistic Emotion-controllable Audio Driven Avatars](READ Avatars: Realistic Emotion-controllable Audio Driven Avatars), `Arxiv 2023`. 
 ---
 
 ## Nerf & 3D
