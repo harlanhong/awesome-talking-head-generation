@@ -155,7 +155,7 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS 2022`. [[Proj
 
 3. <span id="a23003">[READ] [READ Avatars: Realistic Emotion-controllable Audio Driven Avatars](READ Avatars: Realistic Emotion-controllable Audio Driven Avatars), `Arxiv 2023`. 
 
-:fire:Diffusion:fire: 2. <span id="a23003">[DAE-Talker] [DAE-Talker: High Fidelity Speech-Driven Talking Face Generation with Diffusion Autoencoder](https://arxiv.org/pdf/2303.17550.pdf), `Arxiv 2023`. 
+:fire:Diffusion:fire: 4. <span id="a23003">[DAE-Talker] [DAE-Talker: High Fidelity Speech-Driven Talking Face Generation with Diffusion Autoencoder](https://arxiv.org/pdf/2303.17550.pdf), `Arxiv 2023`. 
 ---
 
 ## Nerf & 3D
