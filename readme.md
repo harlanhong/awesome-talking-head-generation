@@ -149,13 +149,14 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS 2022`. [[Proj
 4. <span id="a22004">[SPACEx] [SPACEx 🚀: Speech-driven Portrait Animation with Controllable Expression](https://arxiv.org/pdf/2211.09809.pdf), `Arxiv 2022`. [[Project](https://deepimagination.cc/SPACEx/)] 
 
 ### 2023
-:fire:Diffusion:fire: 1. <span id="a23001">[Diffused Heads] [Diffused Heads: Diffusion Models Beat GANs on Talking-Face Generation](https://mstypulkowski.github.io/diffusedheads/diffused_heads.pdf), `Arxiv 2023`. [[Project](https://mstypulkowski.github.io/diffusedheads/)] 
+1. <span id="a23001">[Diffused Heads] [Diffused Heads: Diffusion Models Beat GANs on Talking-Face Generation](https://mstypulkowski.github.io/diffusedheads/diffused_heads.pdf), `Arxiv 2023`. [[Project](https://mstypulkowski.github.io/diffusedheads/)] :fire:Diffusion:fire: 
 
-:fire:Diffusion:fire: 2. <span id="a23002">[DiffTalk] [DiffTalk: Crafting Diffusion Models for Generalized Talking Head Synthesis](https://arxiv.org/abs/2301.03786), `Arxiv 2023`. [[Project](https://sstzal.github.io/DiffTalk/)] 
+2. <span id="a23002">[DiffTalk] [DiffTalk: Crafting Diffusion Models for Generalized Talking Head Synthesis](https://arxiv.org/abs/2301.03786), `Arxiv 2023`. [[Project](https://sstzal.github.io/DiffTalk/)] :fire:Diffusion:fire: 
 
 3. <span id="a23003">[READ] [READ Avatars: Realistic Emotion-controllable Audio Driven Avatars](READ Avatars: Realistic Emotion-controllable Audio Driven Avatars), `Arxiv 2023`. 
 
-:fire:Diffusion:fire: 4. <span id="a23003">[DAE-Talker] [DAE-Talker: High Fidelity Speech-Driven Talking Face Generation with Diffusion Autoencoder](https://arxiv.org/pdf/2303.17550.pdf), `Arxiv 2023`. 
+4. <span id="a23003">[DAE-Talker] [DAE-Talker: High Fidelity Speech-Driven Talking Face Generation with Diffusion Autoencoder](https://arxiv.org/pdf/2303.17550.pdf), `Arxiv 2023`. :fire:Diffusion:fire: 
+
 ---
 
 ## Nerf & 3D
