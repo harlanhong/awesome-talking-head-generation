@@ -88,6 +88,8 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS 2022`. [[Proj
    
 11. <span id="22011">[Compressing Video Calls using Synthetic Talking Heads](https://arxiv.org/pdf/2210.03692.pdf), `BMVC 2022`. [[Project](https://cvit.iiit.ac.in/research/projects/cvit-projects/talking-video-compression)] 
 
+12. <span id="22013">[Finding Directions in GAN’s Latent Space for Neural Face Reenactment](https://arxiv.org/pdf/2202.00046.pdf), `BMVC 2022`. [[Project](https://stelabou.github.io/stylegan-directions-reenactment/)] [[Code](https://github.com/StelaBou/stylegan_directions_face_reenactment)] 
+
 
 
 ### 2023
