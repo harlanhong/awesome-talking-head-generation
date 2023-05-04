@@ -157,6 +157,9 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS 2022`. [[Proj
 
 4. <span id="a23003">[DAE-Talker] [DAE-Talker: High Fidelity Speech-Driven Talking Face Generation with Diffusion Autoencoder](https://arxiv.org/pdf/2303.17550.pdf), `Arxiv 2023`. :fire:Diffusion:fire: 
 
+4. <span id="a23003">[EmoGen] [Emotionally Enhanced Talking Face Generation](https://arxiv.org/pdf/2303.11548.pdf), `Arxiv 2023`. [[Code](https://github.com/sahilg06/EmoGen)] 
+
+
 ---
 
 ## Nerf & 3D
