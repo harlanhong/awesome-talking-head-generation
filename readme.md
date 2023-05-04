@@ -161,6 +161,7 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS 2022`. [[Proj
 
 5. <span id="a23005">[EmoGen] [Emotionally Enhanced Talking Face Generation](https://arxiv.org/pdf/2303.11548.pdf), `Arxiv 2023`. [[Code](https://github.com/sahilg06/EmoGen)] 
 
+6. <span id="a23006">[TalkLip] [Seeing What You Said: Talking Face Generation Guided by a Lip Reading Expert](https://arxiv.org/pdf/2303.17480.pdf), `CVPR 2023`. [[Code](https://github.com/Sxjdwang/TalkLip)] 
 
 ---
 
