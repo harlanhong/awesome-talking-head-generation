@@ -172,6 +172,9 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS 2022`. [[Proj
 
 8. <span id="a23008">[GeneFace++] [GeneFace++: Generalized and Stable Real-Time Audio-Driven 3D Talking Face Generation](https://arxiv.org/pdf/2305.00787.pdf), `arXiv 2023`. [[Project](https://genefaceplusplus.github.io)] 
 
+9. <span id="a23009">[MODA] [MODA: Mapping-Once Audio-driven Portrait Animation with Dual Attentions](https://arxiv.org/abs/2307.10008), `ICCV 2023`.
+
+
 ---
 
 ## Nerf & 3D
@@ -196,6 +199,8 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS 2022`. [[Proj
 7. <span id="n22007">[Next3D] [Generative Neural Texture Rasterization for 3D-Aware Head Avatars](https://arxiv.org/pdf/2211.11208.pdf), `Arxiv 2022`.[[Project](https://mrtornado24.github.io/Next3D/)]
 
 8. <span id="n22008">[NeRFInvertor] [NeRFInvertor: High Fidelity NeRF-GAN Inversion for Single-shot Real Image Animation](https://arxiv.org/pdf/2211.17235.pdf?), `Arxiv 2022`.
+
+
 
 ---
 
