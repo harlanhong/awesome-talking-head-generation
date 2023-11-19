@@ -90,6 +90,7 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS 2022`. [[Proj
 
 12. <span id="22013">[Finding Directions in GAN’s Latent Space for Neural Face Reenactment](https://arxiv.org/pdf/2202.00046.pdf), `BMVC 2022`. [[Project](https://stelabou.github.io/stylegan-directions-reenactment/)] [[Code](https://github.com/StelaBou/stylegan_directions_face_reenactment)] 
 
+13. <span id="22014">[LIA][Latent Image Animator: Learning to Animate Images via Latent Space Navigation](https://arxiv.org/pdf/2203.09043.pdf), `ICLR 2022`. [[Project](https://wyhsirius.github.io/LIA-project/)] [[Code](https://github.com/wyhsirius/LIA)] 
 
 
 ### 2023
@@ -148,7 +149,7 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS 2022`. [[Proj
 1. <span id="a22001">[GC-AVT] [Expressive Talking Head Generation with Granular Audio-Visual Control ](https://openaccess.thecvf.com/content/CVPR2022/papers/Liang_Expressive_Talking_Head_Generation_With_Granular_Audio-Visual_Control_CVPR_2022_paper.pdf), `CVPR 2022`.
 2. <span id="a22002">[Talking Face Generation with Multilingual TTS](https://openaccess.thecvf.com/content/CVPR2022/papers/Song_Talking_Face_Generation_With_Multilingual_TTS_CVPR_2022_paper.pdf), `CVPR 2022`. [[Demo Track](https://huggingface.co/spaces/CVPR/ml-talking-face)].
 3. <span id="a22003">[EAMM] [EAMM: One-Shot Emotional Talking Face via Audio-Based Emotion-Aware Motion Model](https://arxiv.org/pdf/2205.15278.pdf), `SIGGRAPH 2022`.
-4. <span id="a22004">[SPACEx] [SPACEx 🚀: Speech-driven Portrait Animation with Controllable Expression](https://arxiv.org/pdf/2211.09809.pdf), `arXiv 2022`. [[Project](https://deepimagination.cc/SPACEx/)] 
+4. <span id="a22004">[SPACEx] [SPACEx 🚀: Speech-driven Portrait Animation with Controllable Expression](https://arxiv.org/pdf/2211.09809.pdf), `arXiv 2022`. [[Project](https://deepimagination.cc/SPACEx/)] `CVPR 2023`
 5. <span id="a22005">[AV-CAT] [Masked Lip-Sync Prediction by Audio-Visual Contextual Exploitation in Transformers](https://arxiv.org/pdf/2212.04970.pdf), `SIGGRAPH Asia 2022`. 
 6. <span id="a22006">[MemFace] [Memories are One-to-Many Mapping Alleviators in Talking Face Generation](https://arxiv.org/pdf/2212.05005.pdf), `arXiv 2022`. 
 
@@ -167,8 +168,9 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS 2022`. [[Proj
 
 6. <span id="a23006">[TalkLip] [Seeing What You Said: Talking Face Generation Guided by a Lip Reading Expert](https://arxiv.org/pdf/2303.17480.pdf), `CVPR 2023`. [[Code](https://github.com/Sxjdwang/TalkLip)] 
 
-7. <span id="a23007">[StyleSync] [StyleSync: High-Fidelity Generalized and Personalized Lip Sync in Style-based Generator](https://arxiv.org/pdf/2305.05445.pdf), `CVPR 2023`. [[Project](https://hangz-nju-cuhk.github.io/projects/StyleSync)] [[Project](https://github.com/guanjz20/StyleSync)].
+7. <span id="a23007">[StyleSync] [StyleSync: High-Fidelity Generalized and Personalized Lip Sync in Style-based Generator](https://arxiv.org/pdf/2305.05445.pdf), `CVPR 2023`. [[Project](https://hangz-nju-cuhk.github.io/projects/StyleSync)] [[Code](https://github.com/guanjz20/StyleSync)].
 
+8. <span id="a23008">[GeneFace++] [GeneFace++: Generalized and Stable Real-Time Audio-Driven 3D Talking Face Generation](https://arxiv.org/pdf/2305.00787.pdf), `arXiv 2023`. [[Project](https://genefaceplusplus.github.io)] 
 
 ---
 
@@ -179,6 +181,7 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS 2022`. [[Proj
 1. <span id="n21001">[DFA-NeRF] [DFA-NeRF: Personalized Talking Head Generation via Disentangled Face Attributes Neural Rendering](https://arxiv.org/pdf/2201.00791v1.pdf), `arxiv, 2021`.
 2. <span id="n21002">[NerFACE] [NerFACE: Dynamic Neural Radiance Fields for Monocular 4D Facial Avatar Reconstruction](https://arxiv.org/pdf/2012.03065), `CVPR 2021 Oral`. [[Code](https://github.com/gafniguy/4D-Facial-Avatars)], [[Project](https://gafniguy.github.io/4D-Facial-Avatars/)]
 
+3. <span id="n21003">[AD-NeRF] [AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis](https://arxiv.org/abs/2103.11078), `ICCV 2021`. [[Code](https://github.com/gafniguy/4D-Facial-Avatars)], [[Code](https://github.com/YudongGuo/AD-NeRF)]
 ### 2022
 
 1. <span id="n22001">[SSP-NeRFF] [Semantic-Aware Implicit Neural Audio-Driven Video Portrait Generation](https://arxiv.org/pdf/2201.07786.pdf), `arxiv, 2022`.
