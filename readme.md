@@ -100,6 +100,7 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS 2022`. [[Proj
 
 2. <span id="23002">[TS-Net][Cross-identity Video Motion Retargeting with Joint Transformation and Synthesis](https://arxiv.org/pdf/2210.01559.pdf), `WACV 2023`. [[Code](https://github.com/nihaomiao/WACV23_TSNet)]
 
+2. <span id="23003">[MCNET][Implicit Identity Representation Conditioned Memory Compensation Network for Talking Head Video Generation](https://arxiv.org/abs/2307.09906), `ICCV 2023`. [[Project](https://harlanhong.github.io/publications/mcnet.html)] [[Code](https://github.com/harlanhong/ICCV2023-MCNET)]
 ---
 
 ## Audio-driven
