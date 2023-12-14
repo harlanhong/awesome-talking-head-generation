@@ -7,6 +7,7 @@ This repo mainly focus on the image-driven talking head generation task, but any
 ## Related Group
 
 0. [MMLab@NTU](https://www.mmlab-ntu.com)
+1. [Alibaba TongYi XR](https://github.com/HumanAIGC)
 
 ## Datasets
 
@@ -158,7 +159,7 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS 2022`. [[Proj
 ### 2023
 1. <span id="a23001">[Diffused Heads] [Diffused Heads: Diffusion Models Beat GANs on Talking-Face Generation](https://mstypulkowski.github.io/diffusedheads/diffused_heads.pdf), `Arxiv 2023`. [[Project](https://mstypulkowski.github.io/diffusedheads/)] :fire:Diffusion:fire: 
 
-2. <span id="a23002">[DiffTalk] [DiffTalk: Crafting Diffusion Models for Generalized Talking Head Synthesis](https://arxiv.org/abs/2301.03786), `Arxiv 2023`. [[Project](https://sstzal.github.io/DiffTalk/)] :fire:Diffusion:fire: 
+2. <span id="a23002">[DiffTalk] [DiffTalk: Crafting Diffusion Models for Generalized Talking Head Synthesis](https://arxiv.org/abs/2301.03786), `Arxiv 2023`. [[Project](https://sstzal.github.io/DiffTalk/)] [[Code](https://github.com/sstzal/DiffTalk)] :fire:Diffusion:fire: 
 
 3. <span id="a23003">[READ] [READ Avatars: Realistic Emotion-controllable Audio Driven Avatars](READ Avatars: Realistic Emotion-controllable Audio Driven Avatars), `Arxiv 2023`. 
 
@@ -174,6 +175,7 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS 2022`. [[Proj
 
 9. <span id="a23009">[MODA] [MODA: Mapping-Once Audio-driven Portrait Animation with Dual Attentions](https://arxiv.org/abs/2307.10008), `ICCV 2023`.
 
+10. <span id="a23010">[VividTalk] [VividTalk: One-Shot Audio-Driven Talking Head Generation Based on 3D Hybrid Prior](https://arxiv.org/pdf/2312.01841.pdf), `Arxiv 2023`. [[Project](https://humanaigc.github.io/vivid-talk/)] [[Code](https://github.com/HumanAIGC/VividTalk)]
 
 ---
 
