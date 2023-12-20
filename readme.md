@@ -128,9 +128,9 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS 2022`. [[Proj
 ### 2020
 
 1. <span id= "a20001">[Wav2Lip] [A Lip Sync Expert Is All You Need for Speech to Lip Generation In The Wild](http://arxiv.org/abs/2008.10010), `ACM Multimedia 2020`. [[Code](https://github.com/Rudrabha/Wav2Lip)], [[Project](http://cvit.iiit.ac.in/research/projects/cvit-projects/a-lip-sync-expert-is-all-you-need-for-speech-to-lip-generation-in-the-wild/)].
-2. <span id="a20002">[RhythmicHead][Talking-head Generation with Rhythmic Head Motion](https://arxiv.org/pdf/2007.08547v1.pdf), `ECCV 2020`. [[Code](https://github.com/lelechen63/Talking-head-Generation-with-Rhythmic-Head-Motion)].
+2. <span id="a20002">[RhythmicHead] [Talking-head Generation with Rhythmic Head Motion](https://arxiv.org/pdf/2007.08547v1.pdf), `ECCV 2020`. [[Code](https://github.com/lelechen63/Talking-head-Generation-with-Rhythmic-Head-Motion)].
 3. <span id="a20003">[MakeItTalk] [MakeItTalk: Speaker-Aware Talking-Head Animation](), `SIGGRAPH Asia 2020`. [[Code](https://github.com/yzhou359/MakeItTalk)], [[Project](https://people.umass.edu/~yangzhou/MakeItTalk/)].
-4. <span id="a20004">[Neural Voice Puppetry: Audio-driven Facial Reenactment](https://arxiv.org/abs/1912.05566), `ECCV 2020`. [[Project](https://justusthies.github.io/posts/neural-voice-puppetry/)].
+4. <span id="a20004">[Neural Voice Puppetry] [Neural Voice Puppetry: Audio-driven Facial Reenactment](https://arxiv.org/abs/1912.05566), `ECCV 2020`. [[Code](https://github.com/keetsky/NeuralVoicePuppetry)], [[Project](https://justusthies.github.io/posts/neural-voice-puppetry/)].
 5. <span id="a20005">[MEAD] [MEAD: A Large-scale Audio-visual Dataset for Emotional Talking-face Generation](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660698.pdf), `ECCV 2020`. [[Code](https://github.com/uniBruce/Mead)], [[Project](https://wywu.github.io/projects/MEAD/MEAD.html)].
 6. <span id="a20005">[Realistic Speech-Driven Facial Animation with GANs](https://arxiv.org/pdf/1906.06337.pdf), `IJCV 2020`.
 
