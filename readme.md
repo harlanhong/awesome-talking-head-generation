@@ -188,7 +188,7 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS 2022`. [[Proj
 ### 2024
 
 1. <span id="a24001">[Real3DPortrait] [Real3D-Portrait: One-shot Realistic 3D Talking Portrait Synthesis
-](https://arxiv.org/pdf/2401.08503.pdf), `ICLR 2024`. [[Code](https://github.com/yerfor/Real3DPortrait)]
+](https://arxiv.org/pdf/2401.08503.pdf), `ICLR 2024`. [[Project](https://real3dportrait.github.io/)] [[Code](https://github.com/yerfor/Real3DPortrait)] 
 
 ---
 
