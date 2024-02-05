@@ -170,9 +170,9 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS 2022`. [[Proj
 
 6. <span id="a23006">[TalkLip] [Seeing What You Said: Talking Face Generation Guided by a Lip Reading Expert](https://arxiv.org/pdf/2303.17480.pdf), `CVPR 2023`. [[Code](https://github.com/Sxjdwang/TalkLip)] 
 
-7. <span id="a23007">[StyleSync] [StyleSync: High-Fidelity Generalized and Personalized Lip Sync in Style-based Generator](https://arxiv.org/pdf/2305.05445.pdf), `CVPR 2023`. [[Project](https://hangz-nju-cuhk.github.io/projects/StyleSync)] [[Code](https://github.com/guanjz20/StyleSync)].
+7. <span id="a23007">[StyleSync] [StyleSync: High-Fidelity Generalized and Personalized Lip Sync in Style-based Generator](https://arxiv.org/pdf/2305.05445.pdf), `CVPR 2023`. [[Project](https://hangz-nju-cuhk.github.io/projects/StyleSync)] [[Code](https://github.com/guanjz20/StyleSync)]
 
-8. <span id="a23008">[GeneFace++] [GeneFace++: Generalized and Stable Real-Time Audio-Driven 3D Talking Face Generation](https://arxiv.org/pdf/2305.00787.pdf), `arXiv 2023`. [[Project](https://genefaceplusplus.github.io)] 
+8. <span id="a23008">[GeneFace++] [GeneFace++: Generalized and Stable Real-Time Audio-Driven 3D Talking Face Generation](https://arxiv.org/pdf/2305.00787.pdf), `arXiv 2023`. [[Project](https://genefaceplusplus.github.io)] [[Code](https://github.com/yerfor/GeneFacePlusPlus)]
 
 9. <span id="a23009">[MODA] [MODA: Mapping-Once Audio-driven Portrait Animation with Dual Attentions](https://arxiv.org/abs/2307.10008), `ICCV 2023`.
 
