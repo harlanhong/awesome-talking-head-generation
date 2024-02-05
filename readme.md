@@ -128,9 +128,9 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS 2022`. [[Proj
 ### 2020
 
 1. <span id= "a20001">[Wav2Lip] [A Lip Sync Expert Is All You Need for Speech to Lip Generation In The Wild](http://arxiv.org/abs/2008.10010), `ACM Multimedia 2020`. [[Code](https://github.com/Rudrabha/Wav2Lip)], [[Project](http://cvit.iiit.ac.in/research/projects/cvit-projects/a-lip-sync-expert-is-all-you-need-for-speech-to-lip-generation-in-the-wild/)].
-2. <span id="a20002">[RhythmicHead][Talking-head Generation with Rhythmic Head Motion](https://arxiv.org/pdf/2007.08547v1.pdf), `ECCV 2020`. [[Code](https://github.com/lelechen63/Talking-head-Generation-with-Rhythmic-Head-Motion)].
+2. <span id="a20002">[RhythmicHead] [Talking-head Generation with Rhythmic Head Motion](https://arxiv.org/pdf/2007.08547v1.pdf), `ECCV 2020`. [[Code](https://github.com/lelechen63/Talking-head-Generation-with-Rhythmic-Head-Motion)].
 3. <span id="a20003">[MakeItTalk] [MakeItTalk: Speaker-Aware Talking-Head Animation](), `SIGGRAPH Asia 2020`. [[Code](https://github.com/yzhou359/MakeItTalk)], [[Project](https://people.umass.edu/~yangzhou/MakeItTalk/)].
-4. <span id="a20004">[Neural Voice Puppetry: Audio-driven Facial Reenactment](https://arxiv.org/abs/1912.05566), `ECCV 2020`. [[Project](https://justusthies.github.io/posts/neural-voice-puppetry/)].
+4. <span id="a20004">[Neural Voice Puppetry] [Neural Voice Puppetry: Audio-driven Facial Reenactment](https://arxiv.org/abs/1912.05566), `ECCV 2020`. [[Code](https://github.com/keetsky/NeuralVoicePuppetry)], [[Project](https://justusthies.github.io/posts/neural-voice-puppetry/)].
 5. <span id="a20005">[MEAD] [MEAD: A Large-scale Audio-visual Dataset for Emotional Talking-face Generation](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660698.pdf), `ECCV 2020`. [[Code](https://github.com/uniBruce/Mead)], [[Project](https://wywu.github.io/projects/MEAD/MEAD.html)].
 6. <span id="a20005">[Realistic Speech-Driven Facial Animation with GANs](https://arxiv.org/pdf/1906.06337.pdf), `IJCV 2020`.
 
@@ -170,13 +170,25 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS 2022`. [[Proj
 
 6. <span id="a23006">[TalkLip] [Seeing What You Said: Talking Face Generation Guided by a Lip Reading Expert](https://arxiv.org/pdf/2303.17480.pdf), `CVPR 2023`. [[Code](https://github.com/Sxjdwang/TalkLip)] 
 
-7. <span id="a23007">[StyleSync] [StyleSync: High-Fidelity Generalized and Personalized Lip Sync in Style-based Generator](https://arxiv.org/pdf/2305.05445.pdf), `CVPR 2023`. [[Project](https://hangz-nju-cuhk.github.io/projects/StyleSync)] [[Code](https://github.com/guanjz20/StyleSync)].
+7. <span id="a23007">[StyleSync] [StyleSync: High-Fidelity Generalized and Personalized Lip Sync in Style-based Generator](https://arxiv.org/pdf/2305.05445.pdf), `CVPR 2023`. [[Project](https://hangz-nju-cuhk.github.io/projects/StyleSync)] [[Code](https://github.com/guanjz20/StyleSync)]
 
-8. <span id="a23008">[GeneFace++] [GeneFace++: Generalized and Stable Real-Time Audio-Driven 3D Talking Face Generation](https://arxiv.org/pdf/2305.00787.pdf), `arXiv 2023`. [[Project](https://genefaceplusplus.github.io)] 
+8. <span id="a23008">[GeneFace++] [GeneFace++: Generalized and Stable Real-Time Audio-Driven 3D Talking Face Generation](https://arxiv.org/pdf/2305.00787.pdf), `arXiv 2023`. [[Project](https://genefaceplusplus.github.io)] [[Code](https://github.com/yerfor/GeneFacePlusPlus)]
 
 9. <span id="a23009">[MODA] [MODA: Mapping-Once Audio-driven Portrait Animation with Dual Attentions](https://arxiv.org/abs/2307.10008), `ICCV 2023`.
 
 10. <span id="a23010">[VividTalk] [VividTalk: One-Shot Audio-Driven Talking Head Generation Based on 3D Hybrid Prior](https://arxiv.org/pdf/2312.01841.pdf), `Arxiv 2023`. [[Project](https://humanaigc.github.io/vivid-talk/)] [[Code](https://github.com/HumanAIGC/VividTalk)]
+    
+11. <span id="a23011">[IP_LAP] [IP_LAP: Identity-Preserving Talking Face Generation with Landmark and Appearance Priors](https://arxiv.org/abs/2305.08293), `CVPR 2023`. [[Code](https://github.com/Weizhi-Zhong/IP_LAP)]
+    
+12. <span id="a23012">[HyperLips] [HyperLips: Hyper Control Lips with High Resolution Decoder for Talking Face Generation
+](https://arxiv.org/abs/2310.05720), `CVPR 2023`. [[Code](https://github.com/semchan/HyperLips)]
+
+
+
+### 2024
+
+1. <span id="a24001">[Real3DPortrait] [Real3D-Portrait: One-shot Realistic 3D Talking Portrait Synthesis
+](https://arxiv.org/pdf/2401.08503.pdf), `ICLR 2024`. [[Project](https://real3dportrait.github.io/)] [[Code](https://github.com/yerfor/Real3DPortrait)] 
 
 ---
 
@@ -202,6 +214,8 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS 2022`. [[Proj
 7. <span id="n22007">[Next3D] [Generative Neural Texture Rasterization for 3D-Aware Head Avatars](https://arxiv.org/pdf/2211.11208.pdf), `Arxiv 2022`.[[Project](https://mrtornado24.github.io/Next3D/)]
 
 8. <span id="n22008">[NeRFInvertor] [NeRFInvertor: High Fidelity NeRF-GAN Inversion for Single-shot Real Image Animation](https://arxiv.org/pdf/2211.17235.pdf?), `Arxiv 2022`.
+
+9. <span id="n22009">[DFRF] [Learning Dynamic Facial Radiance Fields for Few-Shot Talking Head Synthesis](https://arxiv.org/abs/2207.11770), `ECCV 2022`. [[Code](https://github.com/sstzal/DFRF)]
 
 
 ### 2024
