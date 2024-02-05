@@ -177,6 +177,8 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS 2022`. [[Proj
 9. <span id="a23009">[MODA] [MODA: Mapping-Once Audio-driven Portrait Animation with Dual Attentions](https://arxiv.org/abs/2307.10008), `ICCV 2023`.
 
 10. <span id="a23010">[VividTalk] [VividTalk: One-Shot Audio-Driven Talking Head Generation Based on 3D Hybrid Prior](https://arxiv.org/pdf/2312.01841.pdf), `Arxiv 2023`. [[Project](https://humanaigc.github.io/vivid-talk/)] [[Code](https://github.com/HumanAIGC/VividTalk)]
+    
+12. <span id="a23011">[IP_LAP] [IP_LAP: Identity-Preserving Talking Face Generation with Landmark and Appearance Priors](https://arxiv.org/abs/2305.08293), `CVPR 2023`. [[Code](https://github.com/Weizhi-Zhong/IP_LAP)]
 
 ---
 
@@ -203,7 +205,7 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS 2022`. [[Proj
 
 8. <span id="n22008">[NeRFInvertor] [NeRFInvertor: High Fidelity NeRF-GAN Inversion for Single-shot Real Image Animation](https://arxiv.org/pdf/2211.17235.pdf?), `Arxiv 2022`.
 
-9. <span id="n22008">[DFRF] [Learning Dynamic Facial Radiance Fields for Few-Shot Talking Head Synthesis](https://arxiv.org/abs/2207.11770), `ECCV 2022`.
+9. <span id="n22009">[DFRF] [Learning Dynamic Facial Radiance Fields for Few-Shot Talking Head Synthesis](https://arxiv.org/abs/2207.11770), `ECCV 2022`. [[Code](https://github.com/sstzal/DFRF)]
 
 
 
