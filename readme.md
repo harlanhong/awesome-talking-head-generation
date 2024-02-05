@@ -178,7 +178,10 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS 2022`. [[Proj
 
 10. <span id="a23010">[VividTalk] [VividTalk: One-Shot Audio-Driven Talking Head Generation Based on 3D Hybrid Prior](https://arxiv.org/pdf/2312.01841.pdf), `Arxiv 2023`. [[Project](https://humanaigc.github.io/vivid-talk/)] [[Code](https://github.com/HumanAIGC/VividTalk)]
     
-12. <span id="a23011">[IP_LAP] [IP_LAP: Identity-Preserving Talking Face Generation with Landmark and Appearance Priors](https://arxiv.org/abs/2305.08293), `CVPR 2023`. [[Code](https://github.com/Weizhi-Zhong/IP_LAP)]
+11. <span id="a23011">[IP_LAP] [IP_LAP: Identity-Preserving Talking Face Generation with Landmark and Appearance Priors](https://arxiv.org/abs/2305.08293), `CVPR 2023`. [[Code](https://github.com/Weizhi-Zhong/IP_LAP)]
+    
+12. <span id="a23012">[HyperLips] [HyperLips: Hyper Control Lips with High Resolution Decoder for Talking Face Generation
+](https://arxiv.org/abs/2310.05720), `CVPR 2023`. [[Code](https://github.com/semchan/HyperLips)]
 
 ---
 
