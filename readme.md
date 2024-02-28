@@ -190,6 +190,10 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS 2022`. [[Proj
 1. <span id="a24001">[Real3DPortrait] [Real3D-Portrait: One-shot Realistic 3D Talking Portrait Synthesis
 ](https://arxiv.org/pdf/2401.08503.pdf), `ICLR 2024`. [[Project](https://real3dportrait.github.io/)] [[Code](https://github.com/yerfor/Real3DPortrait)] 
 
+
+2. <span id="a24002">[EMO] [Emote Portrait Alive - Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions
+](https://arxiv.org/pdf/2402.17485.pdf), `arXiv 2024`.  [[Project](https://humanaigc.github.io/emote-portrait-alive/)] [[Code](https://github.com/HumanAIGC/EMO)]
+
 ---
 
 ## Nerf & 3D
