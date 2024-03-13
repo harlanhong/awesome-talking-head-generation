@@ -194,6 +194,12 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS 2022`. [[Proj
 2. <span id="a24002">[EMO] [Emote Portrait Alive - Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions
 ](https://arxiv.org/pdf/2402.17485.pdf), `arXiv 2024`.  [[Project](https://humanaigc.github.io/emote-portrait-alive/)] [[Code](https://github.com/HumanAIGC/EMO)]
 
+3. <span id="a24003">[Style2Talker] [Style2Talker: High-Resolution Talking Head Generation with Emotion Style and Art Style
+](https://arxiv.org/pdf/2403.06365.pdf), `AAAI 2024`.
+
+4. <span id="a24004">[SaaS] [Say Anything with Any Style](https://arxiv.org/abs/2403.06363), `AAAI 2024`.
+
+
 ---
 
 ## Nerf & 3D
@@ -241,6 +247,10 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS 2022`. [[Proj
 ### 2020
 
 1. <span id="s20001">[What comprises a good talking-head video generation?: A Survey and Benchmark](https://arxiv.org/pdf/2005.03201v1.pdf).
+
+### 2024
+
+1. <span id="s24001">[A Comparative Study of Perceptual Quality Metrics for Audio-driven Talking Head Videos](https://arxiv.org/abs/2403.06421) [[Code](https://github.com/zwx8981/ADTH-QA)].
 
 ## Star History
 
