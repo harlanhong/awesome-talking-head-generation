@@ -199,6 +199,12 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS 2022`. [[Proj
 
 4. <span id="a24004">[SaaS] [Say Anything with Any Style](https://arxiv.org/abs/2403.06363), `AAAI 2024`.
 
+5. <span id="a24005"> [MuseTalk] Real-Time High Quality Lip Synchorization with Latent Space Inpainting, [[Code](https://github.com/TMElyralab/MuseTalk)].
+6. <span id="a24006"> [VASA-1] [VASA-1: Lifelike Audio-Driven Talking Faces Generated in Real Time]((https://arxiv.org/abs/2404.10667)), `arXiv 2024`. [[Project](https://www.microsoft.com/en-us/research/project/vasa-1/)].
+7. <span id="a24007"> [THQA] [THQA: A Perceptual Quality Assessment Database for Talking Heads](https://arxiv.org/abs/2404.09003), `arXiv 2024`. [[Code](https://github.com/zyj-2000/THQA)].
+8. <span id="a24008"> [Talk3D] [Talk3D: High-Fidelity Talking Portrait Synthesis via Personalized 3D Generative Prior](https://arxiv.org/abs/2403.20153), `arXiv 2024`. [[Code](https://github.com/KU-CVLAB/Talk3D)] [[Project](https://ku-cvlab.github.io/Talk3D/)]
+9. <span id="a24009"> [EDTalk] [EDTalk: Efficient Disentanglement for Emotional Talking Head Synthesis](https://arxiv.org/abs/2404.01647), `arXiv 2024`. [[Code](https://github.com/tanshuai0219/EDTalk)] [[Project](https://tanshuai0219.github.io/EDTalk/)]
+10. <span id="a24010"> [AniPortrait] [AniPortrait: Audio-Driven Synthesis of Photorealistic Portrait Animations](https://arxiv.org/abs/2403.17694), `arXiv 2024`. [[Code](https://github.com/Zejun-Yang/AniPortrait)]
 
 ---
 
