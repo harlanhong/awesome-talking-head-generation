@@ -103,6 +103,10 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS 2022`. [[Proj
 2. <span id="23003">[MCNET][Implicit Identity Representation Conditioned Memory Compensation Network for Talking Head Video Generation](https://arxiv.org/abs/2307.09906), `ICCV 2023`. [[Project](https://harlanhong.github.io/publications/mcnet.html)] [[Code](https://github.com/harlanhong/ICCV2023-MCNET)]
 ---
 
+### 2024
+
+1. <span id="24001"> [X-Portrait] [X-Portrait: Expressive Portrait Animation with Hierarchical Motion Attention](https://arxiv.org/abs/2403.15931), `arXiv 2024`.
+---
 ## Audio-driven
 
 ### 2016
