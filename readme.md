@@ -209,7 +209,8 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS 2022`. [[Proj
 8. <span id="a24008"> [Talk3D] [Talk3D: High-Fidelity Talking Portrait Synthesis via Personalized 3D Generative Prior](https://arxiv.org/abs/2403.20153), `arXiv 2024`. [[Code](https://github.com/KU-CVLAB/Talk3D)] [[Project](https://ku-cvlab.github.io/Talk3D/)]
 9. <span id="a24009"> [EDTalk] [EDTalk: Efficient Disentanglement for Emotional Talking Head Synthesis](https://arxiv.org/abs/2404.01647), `arXiv 2024`. [[Code](https://github.com/tanshuai0219/EDTalk)] [[Project](https://tanshuai0219.github.io/EDTalk/)]
 10. <span id="a24010"> [AniPortrait] [AniPortrait: Audio-Driven Synthesis of Photorealistic Portrait Animations](https://arxiv.org/abs/2403.17694), `arXiv 2024`. [[Code](https://github.com/Zejun-Yang/AniPortrait)]
-
+11. <span id="a24011"> [FlowVQTalker] [FlowVQTalker: High-Quality Emotional Talking Face Generation through Normalizing Flow and Quantization](https://arxiv.org/abs/2403.06375), `arXiv 2024`.
+12. <span id="a24012">  [FaceChain-ImagineID] [FaceChain-ImagineID: Freely Crafting High-Fidelity Diverse Talking Faces from Disentangled Audio](https://arxiv.org/abs/2403.01901), `arXiv 2024`. [[Code](https://github.com/modelscope/facechain)]
 ---
 
 ## Nerf & 3D
