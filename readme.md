@@ -187,7 +187,7 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS 2022`. [[Proj
 12. <span id="a23012">[HyperLips] [HyperLips: Hyper Control Lips with High Resolution Decoder for Talking Face Generation
 ](https://arxiv.org/abs/2310.05720), `CVPR 2023`. [[Code](https://github.com/semchan/HyperLips)]
 
-
+13. <span id="a23013">[EAT] [Efficient Emotional Adaptation for Audio-Driven Talking-Head Generation](https://arxiv.org/abs/2309.04946), `ICCV 2023`. [[Project](https://yuangan.github.io/eat/)] [[Code](https://github.com/yuangan/EAT_code)]
 
 ### 2024
 
