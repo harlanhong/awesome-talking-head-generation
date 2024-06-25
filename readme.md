@@ -19,6 +19,7 @@ This repo mainly focus on the image-driven talking head generation task, but any
 5. LRW (Lip Reading in the Wild) [[`Download link`](https://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrw1.html)].
 6. MEAD [[`Download link`](https://github.com/uniBruce/Mead)].
 7. CelebV-HQ [[`Download link`](https://github.com/CelebV-HQ/CelebV-HQ)].
+8. CHDTF [[`Download link`](https://medialab.sjtu.edu.cn/post/chdtf/)].
 
 ---
 
@@ -211,6 +212,7 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS 2022`. [[Proj
 10. <span id="a24010"> [AniPortrait] [AniPortrait: Audio-Driven Synthesis of Photorealistic Portrait Animations](https://arxiv.org/abs/2403.17694), `arXiv 2024`. [[Code](https://github.com/Zejun-Yang/AniPortrait)]
 11. <span id="a24011"> [FlowVQTalker] [FlowVQTalker: High-Quality Emotional Talking Face Generation through Normalizing Flow and Quantization](https://arxiv.org/abs/2403.06375), `arXiv 2024`.
 12. <span id="a24012">  [FaceChain-ImagineID] [FaceChain-ImagineID: Freely Crafting High-Fidelity Diverse Talking Faces from Disentangled Audio](https://arxiv.org/abs/2403.01901), `arXiv 2024`. [[Code](https://github.com/modelscope/facechain)]
+13. <span id="a24013">  [Hallo] [Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation](https://arxiv.org/pdf/2406.08801), `arXiv 2024`. [[Code](https://github.com/fudan-generative-vision/hallo)]
 ---
 
 ## Nerf & 3D
