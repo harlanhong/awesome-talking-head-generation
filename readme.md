@@ -243,6 +243,7 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS 2022`. [[Proj
 
 ### 2024
 1. <span id="n24001">[CVTHead] [CVTHead: One-shot Controllable Head Avatar with Vertex-feature Transformer](https://openaccess.thecvf.com/content/WACV2024/papers/Ma_CVTHead_One-Shot_Controllable_Head_Avatar_With_Vertex-Feature_Transformer_WACV_2024_paper.pdf), `WACV 2024`. [[Code](https://github.com/HowieMa/CVTHead)].  
+2. <span id="n24002">[Head3D] [3D-Aware Talking-Head Video Motion Transfer](https://openaccess.thecvf.com/content/WACV2024/papers/Ni_3D-Aware_Talking-Head_Video_Motion_Transfer_WACV_2024_paper.pdf), `WACV 2024`.
 
 
 ---
