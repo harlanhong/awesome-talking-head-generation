@@ -2,7 +2,9 @@
 
 Papers for Talking Head Generation, released codes collections.
 
-This repo mainly focus on the image-driven talking head generation task, but any addition or bug about other domain talking head generation,please open an issue, pull requests or e-mail me by `fhongac@cse.ust.hk`. If you are researching in talking head generation task, you can add my discord account: Fa-Ting Hong#6563 for better communication and cooperations.
+Any addition or bug about talking head generation,please open an issue, pull requests or e-mail me by `fhongac@cse.ust.hk`. If you are researching in talking head generation task, you can add my discord account: Fa-Ting Hong#6563 for better communication and cooperations.
+
+ :fire:I am currently seeking a job or postdoctoral position. If you are interested in my qualifications and experience, please feel free to contact me. :fire: 
 
 ## Related Group
 
@@ -107,6 +109,7 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS 2022`. [[Proj
 ### 2024
 
 1. <span id="24001"> [X-Portrait] [X-Portrait: Expressive Portrait Animation with Hierarchical Motion Attention](https://arxiv.org/abs/2403.15931), `arXiv 2024`.
+2. <span id="24002"> [LivePortrait] [LivePortrait: Efficient Portrait Animation with Stitching and Retargeting Control](https://arxiv.org/pdf/2407.03168)  [[Code](https://github.com/KwaiVGI/LivePortrait)] [[Project](https://liveportrait.github.io)]
 ---
 ## Audio-driven
 
@@ -213,6 +216,10 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS 2022`. [[Proj
 11. <span id="a24011"> [FlowVQTalker] [FlowVQTalker: High-Quality Emotional Talking Face Generation through Normalizing Flow and Quantization](https://arxiv.org/abs/2403.06375), `arXiv 2024`.
 12. <span id="a24012">  [FaceChain-ImagineID] [FaceChain-ImagineID: Freely Crafting High-Fidelity Diverse Talking Faces from Disentangled Audio](https://arxiv.org/abs/2403.01901), `arXiv 2024`. [[Code](https://github.com/modelscope/facechain)]
 13. <span id="a24013">  [Hallo] [Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation](https://arxiv.org/pdf/2406.08801), `arXiv 2024`. [[Code](https://github.com/fudan-generative-vision/hallo)]
+14. <span id='a24014'> [EchoMinic][EchoMimic: Lifelike Audio-Driven Portrait Animations through Editable Landmark Conditions](https://arxiv.org/abs/2407.08136),  `arXiv 2024`. [[Code](https://github.com/BadToBest/EchoMimic)], [[Project](https://badtobest.github.io/echomimic.html)]
+15. <span id='a24015'> [RealTalk][RealTalk: Real-time and Realistic Audio-driven Face Generation with 3D Facial Prior-guided Identity Alignment Network](https://arxiv.org/abs/2406.18284)
+16. <span id='a24016'> [Emotional Conversation][Emotional Conversation: Empowering Talking Faces with Cohesive Expression, Gaze and Pose Generation](https://arxiv.org/abs/2406.07895)
+17. <span id='a24017'> [Make Your Actor Talk][Make Your Actor Talk: Generalizable and High-Fidelity Lip Sync with Motion and Appearance Disentanglement](https://arxiv.org/abs/2406.08096)
 ---
 
 ## Nerf & 3D
