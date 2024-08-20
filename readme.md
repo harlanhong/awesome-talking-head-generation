@@ -219,6 +219,10 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS 2022`. [[Proj
 16. <span id='a24016'> [Emotional Conversation][Emotional Conversation: Empowering Talking Faces with Cohesive Expression, Gaze and Pose Generation](https://arxiv.org/abs/2406.07895)
 17. <span id='a24017'> [Make Your Actor Talk][Make Your Actor Talk: Generalizable and High-Fidelity Lip Sync with Motion and Appearance Disentanglement](https://arxiv.org/abs/2406.08096)
 18. <span id='a24018'> [FD2Talk][FD2Talk: Towards Generalized Talking Head Generation with Facial Decoupled Diffusion Model](https://arxiv.org/pdf/2408.09384v1)
+19. <span id='a24019'> [ReSyncer][ReSyncer: Rewiring Style-based Generator for Unified Audio-Visually Synced Facial Performer](https://arxiv.org/abs/2408.03284)
+20. <span id='a24019'> [StyleSync][Style-Preserving Lip Sync via Audio-Aware Style Reference](https://arxiv.org/abs/2408.05412)
+
+
 ---
 
 ## Nerf & 3D
