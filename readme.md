@@ -110,6 +110,7 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS 2022`. [[Proj
 
 1. <span id="24001"> [X-Portrait] [X-Portrait: Expressive Portrait Animation with Hierarchical Motion Attention](https://arxiv.org/abs/2403.15931), `arXiv 2024`.
 2. <span id="24002"> [LivePortrait] [LivePortrait: Efficient Portrait Animation with Stitching and Retargeting Control](https://arxiv.org/pdf/2407.03168)  [[Code](https://github.com/KwaiVGI/LivePortrait)] [[Project](https://liveportrait.github.io)]
+3. <span id="24003"> [EMOPortraits] [EMOPortraits: Emotion-enhanced Multimodal One-shot Head Avatars](https://arxiv.org/pdf/2404.19110),  `CVPR 2024`. [[Code](https://github.com/neeek2303/EMOPortraits)], [[Project](https://neeek2303.github.io/EMOPortraits/)]
 ---
 ## Audio-driven
 
@@ -201,12 +202,9 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS 2022`. [[Proj
 
 2. <span id="a24002">[EMO] [Emote Portrait Alive - Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions
 ](https://arxiv.org/pdf/2402.17485.pdf), `arXiv 2024`.  [[Project](https://humanaigc.github.io/emote-portrait-alive/)] [[Code](https://github.com/HumanAIGC/EMO)]
-
 3. <span id="a24003">[Style2Talker] [Style2Talker: High-Resolution Talking Head Generation with Emotion Style and Art Style
 ](https://arxiv.org/pdf/2403.06365.pdf), `AAAI 2024`.
-
 4. <span id="a24004">[SaaS] [Say Anything with Any Style](https://arxiv.org/abs/2403.06363), `AAAI 2024`.
-
 5. <span id="a24005"> [MuseTalk] Real-Time High Quality Lip Synchorization with Latent Space Inpainting, [[Code](https://github.com/TMElyralab/MuseTalk)].
 6. <span id="a24006"> [VASA-1] [VASA-1: Lifelike Audio-Driven Talking Faces Generated in Real Time]((https://arxiv.org/abs/2404.10667)), `arXiv 2024`. [[Project](https://www.microsoft.com/en-us/research/project/vasa-1/)].
 7. <span id="a24007"> [THQA] [THQA: A Perceptual Quality Assessment Database for Talking Heads](https://arxiv.org/abs/2404.09003), `arXiv 2024`. [[Code](https://github.com/zyj-2000/THQA)].
@@ -220,9 +218,6 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS 2022`. [[Proj
 15. <span id='a24015'> [RealTalk][RealTalk: Real-time and Realistic Audio-driven Face Generation with 3D Facial Prior-guided Identity Alignment Network](https://arxiv.org/abs/2406.18284)
 16. <span id='a24016'> [Emotional Conversation][Emotional Conversation: Empowering Talking Faces with Cohesive Expression, Gaze and Pose Generation](https://arxiv.org/abs/2406.07895)
 17. <span id='a24017'> [Make Your Actor Talk][Make Your Actor Talk: Generalizable and High-Fidelity Lip Sync with Motion and Appearance Disentanglement](https://arxiv.org/abs/2406.08096)
-18. <span id='a24018'> [FD2Talk][FD2Talk: Towards Generalized Talking Head Generation with Facial Decoupled Diffusion Model](https://arxiv.org/pdf/2408.09384v1)
-
-
 ---
 
 ## Nerf & 3D
@@ -254,7 +249,6 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS 2022`. [[Proj
 ### 2024
 1. <span id="n24001">[CVTHead] [CVTHead: One-shot Controllable Head Avatar with Vertex-feature Transformer](https://openaccess.thecvf.com/content/WACV2024/papers/Ma_CVTHead_One-Shot_Controllable_Head_Avatar_With_Vertex-Feature_Transformer_WACV_2024_paper.pdf), `WACV 2024`. [[Code](https://github.com/HowieMa/CVTHead)].  
 2. <span id="n24002">[Head3D] [3D-Aware Talking-Head Video Motion Transfer](https://openaccess.thecvf.com/content/WACV2024/papers/Ni_3D-Aware_Talking-Head_Video_Motion_Transfer_WACV_2024_paper.pdf), `WACV 2024`.
-
 
 ---
 
