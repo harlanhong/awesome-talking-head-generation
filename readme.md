@@ -215,12 +215,14 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS 2022`. [[Proj
 12. <span id="a24012">  [FaceChain-ImagineID] [FaceChain-ImagineID: Freely Crafting High-Fidelity Diverse Talking Faces from Disentangled Audio](https://arxiv.org/abs/2403.01901), `arXiv 2024`. [[Code](https://github.com/modelscope/facechain)]
 13. <span id="a24013">  [Hallo] [Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation](https://arxiv.org/pdf/2406.08801), `arXiv 2024`. [[Code](https://github.com/fudan-generative-vision/hallo)]
 14. <span id='a24014'> [EchoMinic][EchoMimic: Lifelike Audio-Driven Portrait Animations through Editable Landmark Conditions](https://arxiv.org/abs/2407.08136),  `arXiv 2024`. [[Code](https://github.com/BadToBest/EchoMimic)], [[Project](https://badtobest.github.io/echomimic.html)]
-15. <span id='a24015'> [RealTalk][RealTalk: Real-time and Realistic Audio-driven Face Generation with 3D Facial Prior-guided Identity Alignment Network](https://arxiv.org/abs/2406.18284)
-16. <span id='a24016'> [Emotional Conversation][Emotional Conversation: Empowering Talking Faces with Cohesive Expression, Gaze and Pose Generation](https://arxiv.org/abs/2406.07895)
-17. <span id='a24017'> [Make Your Actor Talk][Make Your Actor Talk: Generalizable and High-Fidelity Lip Sync with Motion and Appearance Disentanglement](https://arxiv.org/abs/2406.08096)
-18. <span id='a24018'> [FD2Talk][FD2Talk: Towards Generalized Talking Head Generation with Facial Decoupled Diffusion Model](https://arxiv.org/pdf/2408.09384v1)
-19. <span id='a24019'> [ReSyncer][ReSyncer: Rewiring Style-based Generator for Unified Audio-Visually Synced Facial Performer](https://arxiv.org/abs/2408.03284)
-20. <span id='a24019'> [StyleSync][Style-Preserving Lip Sync via Audio-Aware Style Reference](https://arxiv.org/abs/2408.05412)
+15. <span id='a24015'> [RealTalk][RealTalk: Real-time and Realistic Audio-driven Face Generation with 3D Facial Prior-guided Identity Alignment Network](https://arxiv.org/abs/2406.18284),  `arXiv 2024`.
+16. <span id='a24016'> [Emotional Conversation][Emotional Conversation: Empowering Talking Faces with Cohesive Expression, Gaze and Pose Generation](https://arxiv.org/abs/2406.07895),  `arXiv 2024`.
+17. <span id='a24017'> [Make Your Actor Talk][Make Your Actor Talk: Generalizable and High-Fidelity Lip Sync with Motion and Appearance Disentanglement](https://arxiv.org/abs/2406.08096),  `arXiv 2024`.
+18. <span id='a24018'> [FD2Talk][FD2Talk: Towards Generalized Talking Head Generation with Facial Decoupled Diffusion Model](https://arxiv.org/pdf/2408.09384v1),  `arXiv 2024`.
+19. <span id='a24019'> [ReSyncer][ReSyncer: Rewiring Style-based Generator for Unified Audio-Visually Synced Facial Performer](https://arxiv.org/abs/2408.03284),  `arXiv 2024`.
+20. <span id='a24019'> [StyleSync][Style-Preserving Lip Sync via Audio-Aware Style Reference](https://arxiv.org/abs/2408.05412),  `arXiv 2024`.
+
+20. <span id='a24020'> [Loopy][Loopy: Taming Audio-Driven Portrait Avatar with Long-Term Motion Dependency](https://arxiv.org/pdf/2409.02634),  `arXiv 2024`. [[Project](https://badtobest.github.io/echomimic.html)]
 
 
 ---
