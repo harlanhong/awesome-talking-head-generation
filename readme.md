@@ -222,7 +222,7 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS 2022`. [[Proj
 19. <span id='a24019'> [ReSyncer][ReSyncer: Rewiring Style-based Generator for Unified Audio-Visually Synced Facial Performer](https://arxiv.org/abs/2408.03284),  `arXiv 2024`.
 20. <span id='a24019'> [StyleSync][Style-Preserving Lip Sync via Audio-Aware Style Reference](https://arxiv.org/abs/2408.05412),  `arXiv 2024`.
 
-20. <span id='a24020'> [Loopy][Loopy: Taming Audio-Driven Portrait Avatar with Long-Term Motion Dependency](https://arxiv.org/pdf/2409.02634),  `arXiv 2024`. [[Project](https://badtobest.github.io/echomimic.html)]
+21. <span id='a24021'> [Loopy][Loopy: Taming Audio-Driven Portrait Avatar with Long-Term Motion Dependency](https://arxiv.org/pdf/2409.02634),  `arXiv 2024`. [[Project](https://badtobest.github.io/echomimic.html)]
 
 
 ---
