@@ -224,7 +224,7 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS 2022`. [[Proj
 
 21. <span id='a24021'> [Loopy][Loopy: Taming Audio-Driven Portrait Avatar with Long-Term Motion Dependency](https://arxiv.org/pdf/2409.02634),  `arXiv 2024`. [[Project](https://loopyavatar.github.io)]
 
-
+22. <span id='a24022'> [DAWN][DAWN: Dynamic Frame Avatar with Non-autoregressive Diffusion Framework for Talking Head Video Generation](https://arxiv.org/abs/2410.13726),  `arXiv 2024`. [[Project](https://hanbo-cheng.github.io/DAWN/)], [[Code](https://github.com/Hanbo-Cheng/DAWN-pytorch)]
 ---
 
 ## Nerf & 3D
