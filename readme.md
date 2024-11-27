@@ -227,7 +227,6 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS 2022`. [[Proj
 22. <span id='a24022'> [DAWN][DAWN: Dynamic Frame Avatar with Non-autoregressive Diffusion Framework for Talking Head Video Generation](https://arxiv.org/abs/2410.13726),  `arXiv 2024`. [[Project](https://hanbo-cheng.github.io/DAWN/)], [[Code](https://github.com/Hanbo-Cheng/DAWN-pytorch)]
     
 24. <span id='a24023'> [EchoMimicV2][EchoMimicV2: Towards Striking, Simplified, and Semi-Body Human Animation](https://arxiv.org/abs/2411.10061),  `arXiv 2024`. [[Code](https://github.com/antgroup/echomimic_v2)], [[Project](https://antgroup.github.io/ai/echomimic_v2/)]
----
 
 25. <span id='a24023'> [LetsTalk][Latent Diffusion Transformer for Talking Video Synthesis](https://arxiv.org/abs/2411.16748),  `arXiv 2024`. [[Code](https://github.com/zhang-haojie/letstalk?tab=readme-ov-file)], [[Project](https://zhang-haojie.github.io/project-pages/letstalk.html)]
 ---
