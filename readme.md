@@ -111,6 +111,8 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS 2022`. [[Proj
 1. <span id="24001"> [X-Portrait] [X-Portrait: Expressive Portrait Animation with Hierarchical Motion Attention](https://arxiv.org/abs/2403.15931), `arXiv 2024`.
 2. <span id="24002"> [LivePortrait] [LivePortrait: Efficient Portrait Animation with Stitching and Retargeting Control](https://arxiv.org/pdf/2407.03168)  [[Code](https://github.com/KwaiVGI/LivePortrait)] [[Project](https://liveportrait.github.io)]
 3. <span id="24003"> [EMOPortraits] [EMOPortraits: Emotion-enhanced Multimodal One-shot Head Avatars](https://arxiv.org/pdf/2404.19110),  `CVPR 2024`. [[Code](https://github.com/neeek2303/EMOPortraits)], [[Project](https://neeek2303.github.io/EMOPortraits/)]
+
+4. <span id="24004"> [SMA] [Synergizing Motion and Appearance: Multi-Scale Compensatory Codebooks for Talking Head Video Generation](https://arxiv.org/abs/2412.00719),  `CVPR 2024`. [[Project](https://shaelynz.github.io/synergize-motion-appearance/)]
 ---
 ## Audio-driven
 
@@ -226,9 +228,20 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS 2022`. [[Proj
 
 22. <span id='a24022'> [DAWN][DAWN: Dynamic Frame Avatar with Non-autoregressive Diffusion Framework for Talking Head Video Generation](https://arxiv.org/abs/2410.13726),  `arXiv 2024`. [[Project](https://hanbo-cheng.github.io/DAWN/)], [[Code](https://github.com/Hanbo-Cheng/DAWN-pytorch)]
     
-24. <span id='a24023'> [EchoMimicV2][EchoMimicV2: Towards Striking, Simplified, and Semi-Body Human Animation](https://arxiv.org/abs/2411.10061),  `arXiv 2024`. [[Code](https://github.com/antgroup/echomimic_v2)], [[Project](https://antgroup.github.io/ai/echomimic_v2/)]
+23. <span id='a24023'> [EchoMimicV2][EchoMimicV2: Towards Striking, Simplified, and Semi-Body Human Animation](https://arxiv.org/abs/2411.10061),  `arXiv 2024`. [[Code](https://github.com/antgroup/echomimic_v2)], [[Project](https://antgroup.github.io/ai/echomimic_v2/)]
 
-25. <span id='a24023'> [LetsTalk][Latent Diffusion Transformer for Talking Video Synthesis](https://arxiv.org/abs/2411.16748),  `arXiv 2024`. [[Code](https://github.com/zhang-haojie/letstalk?tab=readme-ov-file)], [[Project](https://zhang-haojie.github.io/project-pages/letstalk.html)]
+24. <span id='a24023'> [LetsTalk][Latent Diffusion Transformer for Talking Video Synthesis](https://arxiv.org/abs/2411.16748),  `arXiv 2024`. [[Code](https://github.com/zhang-haojie/letstalk?tab=readme-ov-file)], [[Project](https://zhang-haojie.github.io/project-pages/letstalk.html)]
+
+25. <span id='a24024'> [IF-MDM][Implicit Face Motion Diffusion Model for High-Fidelity Realtime Talking Head Generation](https://arxiv.org/abs/2412.04000),  `arXiv 2024`. [[Project](http://ec2-3-25-102-128.ap-southeast-2.compute.amazonaws.com/IF-MDM/ifmdm_supplementary/index.html)]
+
+26. <span id='a24025'> [INFP][Audio-Driven Interactive Head Generation in Dyadic Conversations](https://arxiv.org/abs/2412.04037),  `arXiv 2024`. [[Project](https://grisoon.github.io/INFP/)]
+
+27. <span id='a24026'> [MEMO][Memory-Guided Diffusion for Expressive Talking Video Generation](https://arxiv.org/abs/2412.04448),  `arXiv 2024`. [[Project](https://memoavatar.github.io/)], [[Code](https://github.com/memoavatar/memo)]
+
+28. <span id='a24027'> [FLOAT][ Generative Motion Latent Flow Matching for Audio-driven Talking Portrait](https://arxiv.org/abs/2412.01064),  `arXiv 2024`. [[Project](https://deepbrainai-research.github.io/float/)]
+
+29. <span id='a24028'> [Hallo3][Highly Dynamic and Realistic Portrait Image Animation with Diffusion Transformer Networks](https://arxiv.org/abs/2412.00733),  `arXiv 2024`. 
+
 ---
 ## Nerf & 3D
 
