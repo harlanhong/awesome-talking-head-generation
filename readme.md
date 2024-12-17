@@ -23,6 +23,7 @@ Any addition or bug about talking head generation,please open an issue, pull req
 7. CelebV-HQ [[`Download link`](https://github.com/CelebV-HQ/CelebV-HQ)].
 8. CHDTF [[`Download link`](https://medialab.sjtu.edu.cn/post/chdtf/)].
 9. MultiTalk [[`Download link`](https://github.com/postech-ami/MultiTalk/tree/main/MultiTalk_dataset)].
+10. VFHQ [[`Download link`](https://github.com/anjieyang/VFHQ-downloader)].
 
 ---
 
