@@ -196,6 +196,9 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS 2022`. [[Proj
 
 13. <span id="a23013">[EAT] [Efficient Emotional Adaptation for Audio-Driven Talking-Head Generation](https://arxiv.org/abs/2309.04946), `ICCV 2023`. [[Project](https://yuangan.github.io/eat/)] [[Code](https://github.com/yuangan/EAT_code)]
 
+14. <span id="a23014">[SadTalker] [SadTalker: Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Talking Head Animation](https://arxiv.org/pdf/2211.12194.pdf), `CVPR 2023`. [[Project](https://sadtalker.github.io)] [[Code](https://github.com/Winfredy/SadTalker)]
+
+
 ### 2024
 
 1. <span id="a24001">[Real3DPortrait] [Real3D-Portrait: One-shot Realistic 3D Talking Portrait Synthesis
