@@ -245,6 +245,12 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS 2022`. [[Proj
 
 29. <span id='a24028'> [Hallo3][Highly Dynamic and Realistic Portrait Image Animation with Diffusion Transformer Networks](https://arxiv.org/abs/2412.00733),  `arXiv 2024`. 
 
+30. <span id='a24029'> [VQTalker][VQTalker: Towards Multilingual Talking Avatars through Facial Motion Tokenization](https://arxiv.org/pdf/2412.09892),  `arXiv 2024`.
+
+31. <span id='a24030'> [PortraitTalk][Towards Customizable One-Shot Audio-to-Talking Face Generation](https://arxiv.org/abs/2412.07754),  `arXiv 2024`.
+
+32. <span id='a24031'> [IF-MDM][IF-MDM: Implicit Face Motion Diffusion Model for High-Fidelity Realtime Talking Head Generation](https://arxiv.org/abs/2412.04000),  `arXiv 2024`.
+
 ---
 ## Nerf & 3D
 
