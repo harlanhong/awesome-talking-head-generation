@@ -198,6 +198,9 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS 2022`. [[Proj
 
 13. <span id="a23013">[EAT] [Efficient Emotional Adaptation for Audio-Driven Talking-Head Generation](https://arxiv.org/abs/2309.04946), `ICCV 2023`. [[Project](https://yuangan.github.io/eat/)] [[Code](https://github.com/yuangan/EAT_code)]
 
+14. <span id="a23014">[SadTalker] [SadTalker: Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Talking Head Animation](https://arxiv.org/pdf/2211.12194.pdf), `CVPR 2023`. [[Project](https://sadtalker.github.io)] [[Code](https://github.com/Winfredy/SadTalker)]
+
+
 ### 2024
 
 1. <span id="a24001">[Real3DPortrait] [Real3D-Portrait: One-shot Realistic 3D Talking Portrait Synthesis
@@ -243,6 +246,12 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS 2022`. [[Proj
 28. <span id='a24027'> [FLOAT][ Generative Motion Latent Flow Matching for Audio-driven Talking Portrait](https://arxiv.org/abs/2412.01064),  `arXiv 2024`. [[Project](https://deepbrainai-research.github.io/float/)]
 
 29. <span id='a24028'> [Hallo3][Highly Dynamic and Realistic Portrait Image Animation with Diffusion Transformer Networks](https://arxiv.org/abs/2412.00733),  `arXiv 2024`. 
+
+30. <span id='a24029'> [VQTalker][VQTalker: Towards Multilingual Talking Avatars through Facial Motion Tokenization](https://arxiv.org/pdf/2412.09892),  `arXiv 2024`.
+
+31. <span id='a24030'> [PortraitTalk][Towards Customizable One-Shot Audio-to-Talking Face Generation](https://arxiv.org/abs/2412.07754),  `arXiv 2024`.
+
+32. <span id='a24031'> [IF-MDM][IF-MDM: Implicit Face Motion Diffusion Model for High-Fidelity Realtime Talking Head Generation](https://arxiv.org/abs/2412.04000),  `arXiv 2024`.
 
 ---
 ## Nerf & 3D
