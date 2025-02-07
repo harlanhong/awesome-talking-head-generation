@@ -256,6 +256,9 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS 2022`. [[Proj
 
 33. <span id='a24032'> [LatentSync][LatentSync: Audio Conditioned Latent Diffusion Models for Lip Sync](https://arxiv.org/abs/2412.09262),  `arXiv 2024`. [[Code](https://github.com/bytedance/LatentSync)]
 
+34. <span id='a24033'> [OmniHuman-1][OmniHuman-1: Rethinking the Scaling-Up of One-Stage Conditioned Human Animation Models](https://arxiv.org/abs/2502.01061),  `arXiv 2024`.
+
+    
 ---
 ## Nerf & 3D
 
