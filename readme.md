@@ -254,6 +254,8 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS 2022`. [[Proj
 
 32. <span id='a24031'> [IF-MDM][IF-MDM: Implicit Face Motion Diffusion Model for High-Fidelity Realtime Talking Head Generation](https://arxiv.org/abs/2412.04000),  `arXiv 2024`.
 
+33. <span id='a24032'> [LatentSync][LatentSync: Audio Conditioned Latent Diffusion Models for Lip Sync](https://arxiv.org/abs/2412.09262),  `arXiv 2024`. [[Code](https://github.com/bytedance/LatentSync)]
+
 ---
 ## Nerf & 3D
 
