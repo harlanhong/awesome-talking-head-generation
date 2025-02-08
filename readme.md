@@ -24,6 +24,7 @@ Any addition or bug about talking head generation,please open an issue, pull req
 8. CHDTF [[`Download link`](https://medialab.sjtu.edu.cn/post/chdtf/)].
 9. MultiTalk [[`Download link`](https://github.com/postech-ami/MultiTalk/tree/main/MultiTalk_dataset)].
 10. VFHQ [[`Download link`](https://github.com/anjieyang/VFHQ-downloader)].
+11. Hallo3 [[`Download link`](https://huggingface.co/datasets/fudan-generative-ai/hallo3_training_data)].
 
 ---
 
@@ -253,6 +254,13 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS 2022`. [[Proj
 
 32. <span id='a24031'> [IF-MDM][IF-MDM: Implicit Face Motion Diffusion Model for High-Fidelity Realtime Talking Head Generation](https://arxiv.org/abs/2412.04000),  `arXiv 2024`.
 
+33. <span id='a24032'> [LatentSync][LatentSync: Audio Conditioned Latent Diffusion Models for Lip Sync](https://arxiv.org/abs/2412.09262),  `arXiv 2024`. [[Code](https://github.com/bytedance/LatentSync)]
+
+### 2025
+
+1. <span id='a25001'> [OmniHuman-1][OmniHuman-1: Rethinking the Scaling-Up of One-Stage Conditioned Human Animation Models](https://arxiv.org/abs/2502.01061),  `arXiv 2025`. [[Project](https://omnihuman-lab.github.io/)]
+
+    
 ---
 ## Nerf & 3D
 
