@@ -6,7 +6,7 @@ Any addition or bug about talking head generation,please open an issue, pull req
 
  :fire:I am currently seeking a job or postdoctoral position. If you are interested in my qualifications and experience, please feel free to contact me. :fire: 
 
- :fire: We released a new work: ACTalker, please view [HERE](https://harlanhong.github.io/publications/actalker/index.html) :fire: 
+ :fire: We released a new work: ACTalker, which can generate portrait videos driven by both audio and expression simultaneously. Please view [HERE](https://harlanhong.github.io/publications/actalker/index.html) :fire: 
 
 ## Related Group
 
