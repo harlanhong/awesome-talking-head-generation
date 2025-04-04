@@ -6,6 +6,8 @@ Any addition or bug about talking head generation,please open an issue, pull req
 
  :fire:I am currently seeking a job or postdoctoral position. If you are interested in my qualifications and experience, please feel free to contact me. :fire: 
 
+ :fire: We released a new work: ACTalker, please view [HERE](https://harlanhong.github.io/publications/actalker/index.html) :fire: 
+
 ## Related Group
 
 0. [MMLab@NTU](https://www.mmlab-ntu.com)
@@ -259,6 +261,8 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS 2022`. [[Proj
 ### 2025
 
 1. <span id='a25001'> [OmniHuman-1][OmniHuman-1: Rethinking the Scaling-Up of One-Stage Conditioned Human Animation Models](https://arxiv.org/abs/2502.01061),  `arXiv 2025`. [[Project](https://omnihuman-lab.github.io/)]
+
+2. <span id='a25002'> [ACTalker][Audio-visual Controlled Video Diffusion with Masked Selective State Spaces Modelling for Natural Talking Head Generation](https://arxiv.org/abs/2504.02542),  `arXiv 2025`. [[Project](https://harlanhong.github.io/publications/actalker/index.html)]
 
     
 ---
