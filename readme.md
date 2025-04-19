@@ -119,6 +119,11 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS 2022`. [[Proj
 
 4. <span id="24004"> [SMA] [Synergizing Motion and Appearance: Multi-Scale Compensatory Codebooks for Talking Head Video Generation](https://arxiv.org/abs/2412.00719),  `CVPR 2024`. [[Project](https://shaelynz.github.io/synergize-motion-appearance/)]
 ---
+
+### 2025
+
+1. <span id="25001"> [HunyuanPortrait] [HunyuanPortrait: Implicit Condition Control for Enhanced Portrait Animation](https://arxiv.org/abs/2503.18860), `CVPR 2025`. [[Code](https://github.com/kkakkkka/HunyuanPortrait)] [[Project](https://kkakkkka.github.io/HunyuanPortrait)]
+---
 ## Audio-driven
 
 ### 2016
