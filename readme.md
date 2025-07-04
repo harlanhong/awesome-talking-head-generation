@@ -113,6 +113,7 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS 2022`. [[Proj
 
 1. [OmniHuman-1][OmniHuman-1: Rethinking the Scaling-Up of One-Stage Conditioned Human Animation Models](https://arxiv.org/abs/2502.01061),  `arXiv 2025`. [[Project](https://omnihuman-lab.github.io/)]
 2. [ACTalker][Audio-visual Controlled Video Diffusion with Masked Selective State Spaces Modelling for Natural Talking Head Generation](https://arxiv.org/abs/2504.02542),  `arXiv 2025`. [[Project](https://harlanhong.github.io/publications/actalker/index.html)]
+3. [OmniAvatar][OmniAvatar: Efficient Audio-Driven Avatar Video Generation with Adaptive Body Animation](https://arxiv.org/abs/2506.18866),  `arXiv 2025`. [[Code](https://github.com/Omni-Avatar/OmniAvatar)] [[Project](https://omni-avatar.github.io/)]
 
 ### 2024
 
