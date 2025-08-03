@@ -37,6 +37,8 @@ Any addition or bug about talking head generation,please open an issue, pull req
 
 1. [HunyuanPortrait] [HunyuanPortrait: Implicit Condition Control for Enhanced Portrait Animation](https://arxiv.org/abs/2503.18860), `CVPR 2025`. [[Code](https://github.com/kkakkkka/HunyuanPortrait)] [[Project](https://kkakkkka.github.io/HunyuanPortrait)]
 
+1. [RobustDeepfakeDetection] [Robust Deepfake Detection for Electronic Know Your Customer Systems Using Registered Images](https://arxiv.org/abs/2507.22601v1), `arXiv 2025`.
+
 ### 2024
 
 1. [X-Portrait] [X-Portrait: Expressive Portrait Animation with Hierarchical Motion Attention](https://arxiv.org/abs/2403.15931), `arXiv 2024`.
