@@ -9,10 +9,10 @@ A curated list of papers and resources for **Talking Head Generation**, includin
 ## Table of Contents
 
 - [Datasets](#datasets)
+- [Survey](#survey)
 - [Image-driven](#image-driven)
 - [Audio-driven](#audio-driven)
 - [Nerf & 3D](#nerf--3d)
-- [Survey](#survey)
 
 ## Related Groups
 
@@ -35,6 +35,24 @@ A curated list of papers and resources for **Talking Head Generation**, includin
 10. VFHQ [[`Download link`](https://github.com/anjieyang/VFHQ-downloader)].
 11. Hallo3 [[`Download link`](https://huggingface.co/datasets/fudan-generative-ai/hallo3_training_data)].
 12. AVSpeech [[`Download link`](https://looking-to-listen.github.io/avspeech/)].
+
+---
+
+## Survey
+
+| Year | Paper | Venue | Links |
+|------|-------|-------|-------|
+| 2026 | [Talking-Head Generation in Practice: A Longitudinal Analysis 2021–2025](https://openreview.net/forum?id=ns3TgZYQTZ) | OpenReview | |
+| 2025 | [Advancing Talking Head Generation: A Comprehensive Survey of Multi-Modal Methodologies, Datasets, Evaluation Metrics, and Loss Functions](https://arxiv.org/abs/2507.02900) | arXiv | |
+| 2025 | [Advancements in Talking Head Generation: A Comprehensive Review of Techniques, Metrics, and Challenges](https://link.springer.com/article/10.1007/s00371-025-04232-w) | The Visual Computer | |
+| 2024 | [A Survey of Talking Head Synthesis: Portrait Generation, Driving Mechanisms, and Editing](https://dl.acm.org/doi/10.1145/3785656) | ACM CSUR | |
+| 2024 | [A Comprehensive Taxonomy and Analysis of Talking Head Synthesis](https://arxiv.org/abs/2406.10553) | arXiv | |
+| 2024 | [Audio-Driven Facial Animation with Deep Learning: A Survey](https://www.mdpi.com/2078-2489/15/11/675) | MDPI Information | |
+| 2024 | [A Comparative Study of Perceptual Quality Metrics for Audio-driven Talking Head Videos](https://arxiv.org/abs/2403.06421) | arXiv | [Code](https://github.com/zwx8981/ADTH-QA) |
+| 2023 | [From Pixels to Portraits: A Comprehensive Survey of Talking Head Generation Techniques and Applications](https://arxiv.org/abs/2308.16041) | arXiv | |
+| 2023 | [Talking Human Face Generation: A Survey](https://www.sciencedirect.com/science/article/pii/S0957417423001793) | Expert Systems with Applications | |
+| 2022 | [Human-Computer Interaction System: A Survey of Talking-Head Generation](https://www.mdpi.com/2079-9292/12/1/218) | MDPI Electronics | |
+| 2020 | [What comprises a good talking-head video generation?: A Survey and Benchmark](https://arxiv.org/pdf/2005.03201v1.pdf) | arXiv | |
 
 ---
 
@@ -422,50 +440,6 @@ A curated list of papers and resources for **Talking Head Generation**, includin
 | Paper | Venue | Links |
 |-------|-------|-------|
 | [Disentangled and Controllable Face Image Generation via 3D Imitative-Contrastive Learning](https://arxiv.org/abs/2004.01298) | CVPR 2020 Oral | [Code](https://github.com/microsoft/DiscoFaceGAN) |
-
-
-## Survey
-
-### 2026
-
-| Paper | Venue | Links |
-|-------|-------|-------|
-| [Talking-Head Generation in Practice: A Longitudinal Analysis 2021–2025](https://openreview.net/forum?id=ns3TgZYQTZ) | OpenReview 2026 | |
-
-### 2025
-
-| Paper | Venue | Links |
-|-------|-------|-------|
-| [Advancing Talking Head Generation: A Comprehensive Survey of Multi-Modal Methodologies, Datasets, Evaluation Metrics, and Loss Functions](https://arxiv.org/abs/2507.02900) | arXiv 2025 | |
-| [Advancements in Talking Head Generation: A Comprehensive Review of Techniques, Metrics, and Challenges](https://link.springer.com/article/10.1007/s00371-025-04232-w) | The Visual Computer 2025 | |
-
-### 2024
-
-| Paper | Venue | Links |
-|-------|-------|-------|
-| [A Survey of Talking Head Synthesis: Portrait Generation, Driving Mechanisms, and Editing](https://dl.acm.org/doi/10.1145/3785656) | ACM CSUR 2024 | |
-| [A Comprehensive Taxonomy and Analysis of Talking Head Synthesis](https://arxiv.org/abs/2406.10553) | arXiv 2024 | |
-| [Audio-Driven Facial Animation with Deep Learning: A Survey](https://www.mdpi.com/2078-2489/15/11/675) | MDPI Information 2024 | |
-| [A Comparative Study of Perceptual Quality Metrics for Audio-driven Talking Head Videos](https://arxiv.org/abs/2403.06421) | arXiv 2024 | [Code](https://github.com/zwx8981/ADTH-QA) |
-
-### 2023
-
-| Paper | Venue | Links |
-|-------|-------|-------|
-| [From Pixels to Portraits: A Comprehensive Survey of Talking Head Generation Techniques and Applications](https://arxiv.org/abs/2308.16041) | arXiv 2023 | |
-| [Talking Human Face Generation: A Survey](https://www.sciencedirect.com/science/article/pii/S0957417423001793) | Expert Systems with Applications 2023 | |
-
-### 2022
-
-| Paper | Venue | Links |
-|-------|-------|-------|
-| [Human-Computer Interaction System: A Survey of Talking-Head Generation](https://www.mdpi.com/2079-9292/12/1/218) | MDPI Electronics 2022 | |
-
-### 2020
-
-| Paper | Venue | Links |
-|-------|-------|-------|
-| [What comprises a good talking-head video generation?: A Survey and Benchmark](https://arxiv.org/pdf/2005.03201v1.pdf) | arXiv 2020 | |
 
 
 ## Star History
