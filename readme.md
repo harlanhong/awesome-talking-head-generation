@@ -4,7 +4,7 @@ A curated list of papers and resources for **Talking Head Generation**, includin
 
 > Contributions welcome! Open an issue, pull request, or contact `fatinghong@gmail.com`. Discord: `Fa-Ting Hong#6563`
 
-> 🔍 **I'm actively looking for remote full-time positions and full-time postdoc opportunities** in talking head generation, generative models, or related areas. If you're interested, feel free to reach out at `haiyang@hedra.com`.
+> 🔍 **I'm actively looking for remote full-time positions and full-time postdoc opportunities** in talking head generation, generative models, or related areas. If you're interested, feel free to reach out at `fatinghong@gmail.com`.
 
 :fire: **New**: [ACTalker](https://harlanhong.github.io/publications/actalker/index.html) — portrait video generation driven by audio and expression simultaneously. `ICCV 2025`
 
