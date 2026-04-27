@@ -60,6 +60,7 @@ A curated list of papers and resources for **Talking Head Generation**, includin
 
 | Year | Paper | Venue | Links |
 |------|-------|-------|-------|
+| 2026 | [PersonaLive! Expressive Portrait Image Animation for Live Streaming](https://arxiv.org/abs/2512.11253) | CVPR 2026 | [Code](https://github.com/GVCLab/PersonaLive) |
 | 2026 | [PortraitDirector: A Hierarchical Disentanglement Framework for Controllable and Real-time Facial Reenactment](https://arxiv.org/abs/2604.19129v1) | arXiv 2026 |  |
 | 2025 | [HunyuanPortrait: Implicit Condition Control for Enhanced Portrait Animation](https://arxiv.org/abs/2503.18860) | CVPR 2025 | [Code](https://github.com/kkakkkka/HunyuanPortrait) · [Project](https://kkakkkka.github.io/HunyuanPortrait) |
 | 2025 | [Robust Deepfake Detection for Electronic Know Your Customer Systems Using Registered Images](https://arxiv.org/abs/2507.22601v1) | arXiv 2025 |  |
@@ -117,7 +118,12 @@ A curated list of papers and resources for **Talking Head Generation**, includin
 | 2026 | [FunCineForge: A Unified Dataset Toolkit and Model for Zero-Shot Movie Dubbing in Diverse Cinematic Scenes](https://arxiv.org/abs/2601.14777v1) | arXiv 2026 |  |
 | 2026 | [TurboTalk: Progressive Distillation for One-Step Audio-Driven Talking Avatar Generation](https://arxiv.org/abs/2604.14580) | arXiv 2026 |  |
 | 2026 | [SEDTalker: Emotion-Aware 3D Facial Animation Using Frame-Level Speech Emotion Diarization](https://arxiv.org/abs/2604.13335) | arXiv 2026 | [Code](https://github.com/FarzanehJafari1987/SEDTalker) |
-| 2026 | [AUHead: Realistic Emotional Talking Head Generation via Action Units Control](https://arxiv.org/abs/2602.09534) | arXiv 2026 |  |
+| 2026 | [AUHead: Realistic Emotional Talking Head Generation via Action Units Control](https://arxiv.org/abs/2602.09534) | ICLR 2026 |  |
+| 2026 | [UniTalking: A Unified Audio-Video Framework for Talking Portrait Generation](https://arxiv.org/abs/2603.01418) | CVPR 2026 |  |
+| 2026 | [DiFlowDubber: Discrete Flow Matching for Automated Video Dubbing via Cross-Modal Alignment and Synchronization](https://arxiv.org/abs/2603.14267) | CVPR 2026 |  |
+| 2026 | [ActAvatar: Temporally-Aware Precise Action Control for Talking Avatars](https://arxiv.org/abs/2512.19546) | CVPR 2026 |  |
+| 2026 | [Cross-Modal Emotion Transfer for Emotion Editing in Talking Face Video](https://arxiv.org/abs/2604.07786) | CVPR 2026 |  |
+| 2026 | [MMFace-DiT: A Dual-Stream Diffusion Transformer for High-Fidelity Multimodal Face Generation](https://arxiv.org/abs/2603.29029) | CVPR 2026 |  |
 | 2025 | [OmniHuman-1: Rethinking the Scaling-Up of One-Stage Conditioned Human Animation Models](https://arxiv.org/abs/2502.01061) | arXiv 2025 | [Project](https://omnihuman-lab.github.io/) |
 | 2025 | [Audio-visual Controlled Video Diffusion with Masked Selective State Spaces Modelling for Natural Talking Head Generation](https://arxiv.org/abs/2504.02542) | ICCV 2025 | [Project](https://harlanhong.github.io/publications/actalker/index.html) |
 | 2025 | [OmniAvatar: Efficient Audio-Driven Avatar Video Generation with Adaptive Body Animation](https://arxiv.org/abs/2506.18866) | arXiv 2025 | [Code](https://github.com/Omni-Avatar/OmniAvatar) · [Project](https://omni-avatar.github.io/) |
@@ -225,7 +231,9 @@ A curated list of papers and resources for **Talking Head Generation**, includin
 | Year | Paper | Venue | Links |
 |------|-------|-------|-------|
 | 2026 | [MMTalker: Multiresolution 3D Talking Head Synthesis with Multimodal Feature Fusion](https://arxiv.org/abs/2604.02941v1) | arXiv 2026 |  |
-| 2026 | [FG-Portrait: 3D Flow Guided Editable Portrait Animation](https://arxiv.org/abs/2603.23381v1) | arXiv 2026 |  |
+| 2026 | [EmoTaG: Emotion-Aware Talking Head Synthesis on Gaussian Splatting with Few-Shot Personalization](https://arxiv.org/abs/2603.21332) | CVPR 2026 |  |
+| 2026 | [GenFaceTalk: Generalizable One-Shot Talking-Head Generation for Diverse Styles](https://openreview.net/forum?id=pHCetk0F8m) | ICLR 2026 |  |
+| 2026 | [FG-Portrait: 3D Flow Guided Editable Portrait Animation](https://arxiv.org/abs/2603.23381v1) | CVPR 2026 |  |
 | 2026 | [Giving Faces Their Feelings Back: Explicit Emotion Control for Feedforward Single-Image 3D Head Avatars](https://arxiv.org/abs/2604.14541v1) | arXiv 2026 |  |
 | 2026 | [3DRealHead: Few-Shot Detailed Head Avatar](https://arxiv.org/abs/2604.13171v1) | arXiv 2026 |  |
 | 2026 | [FHAvatar: Fast and High-Fidelity Reconstruction of Face-and-Hair Composable 3D Head Avatar from Few Casual Captures](https://arxiv.org/abs/2603.23345v1) | arXiv 2026 |  |
