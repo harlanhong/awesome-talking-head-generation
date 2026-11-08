@@ -118,6 +118,7 @@ A curated list of papers and resources for **Talking Head Generation**, includin
 
 | Year | Paper | Venue | Links |
 |------|-------|-------|-------|
+| 2026 | [PVSync: A Unified Lip-Sync Expert for Timing and Articulation](https://arxiv.org/abs/2610.09223) | arXiv 2026 |  |
 | 2026 | [PAGE: Parts-Aware Guidance for Co-Speech Gesture Portrait Video Generation](https://arxiv.org/abs/2610.13301v1) | TCSVT 2026 | [Project](https://aigc-explorer.github.io/PAGE/). [Dataset](https://huggingface.co/datasets/academic5000/CAS) |
 | 2026 | [FunCineForge: A Unified Dataset Toolkit and Model for Zero-Shot Movie Dubbing in Diverse Cinematic Scenes](https://arxiv.org/abs/2601.14777v1) | arXiv 2026 |  |
 | 2026 | [TurboTalk: Progressive Distillation for One-Step Audio-Driven Talking Avatar Generation](https://arxiv.org/abs/2604.14580) | arXiv 2026 |  |
